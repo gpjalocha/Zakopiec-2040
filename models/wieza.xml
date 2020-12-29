@@ -1,0 +1,1521 @@
+<3dmodel id="wieza">
+	<batch id="None" texture="Textures\concrete5.png" material="Materials\material1.xml" fvf="322" order="0">
+		</batch>
+	<batch id="Material" texture="Textures\concrete5.png" material="Materials\material1.xml" fvf="322" order="0">
+		<vertex id="2" x="-2.7842" y="5.1650" z="4.0682" u1="-2.7842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="192" x="-2.8223" y="6.9823" z="4.1215" u1="-2.8223" v1="4.1215" diffuse="0xffcccccc"/>
+		<vertex id="153" x="-2.8223" y="5.1650" z="4.1215" u1="-2.8223" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="2" v2="192" v3="153"/>
+		<vertex id="131" x="-2.7842" y="6.9823" z="3.8777" u1="-2.7842" v1="3.8777" diffuse="0xffcccccc"/>
+		<vertex id="3" x="-2.7842" y="6.9823" z="4.0682" u1="-2.7842" v1="4.0682" diffuse="0xffcccccc"/>
+		<face v1="2" v2="131" v3="3"/>
+		<vertex id="165" x="-3.2794" y="5.1650" z="4.2375" u1="-3.2794" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="166" x="-3.3175" y="5.1650" z="4.2375" u1="-3.3175" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="130" x="-3.5842" y="5.1650" z="3.8812" u1="-3.5842" v1="3.8812" diffuse="0xffcccccc"/>
+		<face v1="165" v2="166" v3="130"/>
+		<vertex id="182" x="-3.2033" y="6.9823" z="4.2375" u1="-3.2033" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="183" x="-3.1652" y="6.9823" z="4.2375" u1="-3.1652" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="131" v2="182" v3="183"/>
+		<vertex id="6" x="0.4158" y="2.9650" z="4.0682" u1="0.4158" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="452" x="0.3777" y="4.7823" z="4.1215" u1="0.3777" v1="4.1215" diffuse="0xffcccccc"/>
+		<vertex id="413" x="0.3777" y="2.9650" z="4.1215" u1="0.3777" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="6" v2="452" v3="413"/>
+		<vertex id="148" x="0.4158" y="4.7823" z="3.8473" u1="0.4158" v1="3.8473" diffuse="0xffcccccc"/>
+		<vertex id="7" x="0.4158" y="4.7823" z="4.0682" u1="0.4158" v1="4.0682" diffuse="0xffcccccc"/>
+		<face v1="6" v2="148" v3="7"/>
+		<vertex id="473" x="0.3777" y="2.9650" z="3.8355" u1="0.3777" v1="3.8355" diffuse="0xffcccccc"/>
+		<face v1="473" v2="6" v3="413"/>
+		<vertex id="472" x="-0.3461" y="4.7823" z="3.8540" u1="-0.3461" v1="3.8540" diffuse="0xffcccccc"/>
+		<vertex id="5" x="-0.3842" y="4.7823" z="4.0682" u1="-0.3842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="433" x="-0.3461" y="4.7823" z="4.1215" u1="-0.3461" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="472" v2="5" v3="433"/>
+		<vertex id="10" x="-0.3842" y="3.5150" z="4.0682" u1="-0.3842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="372" x="-0.4223" y="5.3323" z="4.1215" u1="-0.4223" v1="4.1215" diffuse="0xffcccccc"/>
+		<vertex id="333" x="-0.4223" y="3.5150" z="4.1215" u1="-0.4223" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="10" v2="372" v3="333"/>
+		<vertex id="146" x="-0.3842" y="5.3323" z="3.8562" u1="-0.3842" v1="3.8562" diffuse="0xffcccccc"/>
+		<vertex id="11" x="-0.3842" y="5.3323" z="4.0682" u1="-0.3842" v1="4.0682" diffuse="0xffcccccc"/>
+		<face v1="10" v2="146" v3="11"/>
+		<vertex id="393" x="-0.4223" y="3.5150" z="3.8495" u1="-0.4223" v1="3.8495" diffuse="0xffcccccc"/>
+		<face v1="393" v2="10" v3="333"/>
+		<vertex id="373" x="-1.1461" y="5.3323" z="3.8624" u1="-1.1461" v1="3.8624" diffuse="0xffcccccc"/>
+		<vertex id="9" x="-1.1842" y="5.3323" z="4.0682" u1="-1.1842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="353" x="-1.1461" y="5.3323" z="4.1215" u1="-1.1461" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="373" v2="9" v3="353"/>
+		<vertex id="14" x="-1.1842" y="4.0650" z="4.0682" u1="-1.1842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="292" x="-1.2223" y="5.8823" z="4.1215" u1="-1.2223" v1="4.1215" diffuse="0xffcccccc"/>
+		<vertex id="253" x="-1.2223" y="4.0650" z="4.1215" u1="-1.2223" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="14" v2="292" v3="253"/>
+		<vertex id="141" x="-1.1842" y="5.8823" z="3.8664" u1="-1.1842" v1="3.8664" diffuse="0xffcccccc"/>
+		<vertex id="15" x="-1.1842" y="5.8823" z="4.0682" u1="-1.1842" v1="4.0682" diffuse="0xffcccccc"/>
+		<face v1="14" v2="141" v3="15"/>
+		<vertex id="313" x="-1.2223" y="4.0650" z="3.8625" u1="-1.2223" v1="3.8625" diffuse="0xffcccccc"/>
+		<face v1="313" v2="14" v3="253"/>
+		<vertex id="293" x="-1.9461" y="5.8823" z="3.8726" u1="-1.9461" v1="3.8726" diffuse="0xffcccccc"/>
+		<vertex id="13" x="-1.9842" y="5.8823" z="4.0682" u1="-1.9842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="273" x="-1.9461" y="5.8823" z="4.1215" u1="-1.9461" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="293" v2="13" v3="273"/>
+		<vertex id="18" x="-1.9842" y="4.6150" z="4.0682" u1="-1.9842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="232" x="-2.0223" y="6.4323" z="4.1215" u1="-2.0223" v1="4.1215" diffuse="0xffcccccc"/>
+		<vertex id="193" x="-2.0223" y="4.6150" z="4.1215" u1="-2.0223" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="18" v2="232" v3="193"/>
+		<vertex id="135" x="-1.9842" y="6.1829" z="3.8750" u1="-1.9842" v1="3.8750" diffuse="0xffcccccc"/>
+		<vertex id="132" x="-1.9842" y="6.4323" z="3.8747" u1="-1.9842" v1="3.8747" diffuse="0xffcccccc"/>
+		<vertex id="19" x="-1.9842" y="6.4323" z="4.0682" u1="-1.9842" v1="4.0682" diffuse="0xffcccccc"/>
+		<face v1="135" v2="132" v3="19"/>
+		<vertex id="205" x="-2.4794" y="4.6150" z="4.2375" u1="-2.4794" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="206" x="-2.5175" y="4.6150" z="4.2375" u1="-2.5175" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="137" x="-2.7842" y="4.6150" z="3.8742" u1="-2.7842" v1="3.8742" diffuse="0xffcccccc"/>
+		<face v1="205" v2="206" v3="137"/>
+		<vertex id="233" x="-2.7461" y="6.4323" z="3.8781" u1="-2.7461" v1="3.8781" diffuse="0xffcccccc"/>
+		<vertex id="17" x="-2.7842" y="6.4323" z="4.0682" u1="-2.7842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="213" x="-2.7461" y="6.4323" z="4.1215" u1="-2.7461" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="233" v2="17" v3="213"/>
+		<vertex id="26" x="-3.8871" y="2.5000" z="3.8871" u1="-3.8871" v1="3.8871" diffuse="0xffcccccc"/>
+		<vertex id="32" x="-3.8871" y="2.5000" z="-3.8871" u1="-3.8871" v1="-3.8871" diffuse="0xffcccccc"/>
+		<vertex id="24" x="-3.8871" y="2.5000" z="-3.8871" u1="-3.8871" v1="-3.8871" diffuse="0xffcccccc"/>
+		<face v1="26" v2="32" v3="24"/>
+		<vertex id="501" x="-3.3699" y="2.5004" z="3.8805" u1="-3.3699" v1="3.8805" diffuse="0xffcccccc"/>
+		<vertex id="27" x="-3.5000" y="0.0000" z="3.5000" u1="-3.5000" v1="3.5000" diffuse="0xffcccccc"/>
+		<vertex id="503" x="-3.0342" y="0.0025" z="3.4961" u1="-3.0342" v1="3.4961" diffuse="0xffcccccc"/>
+		<face v1="501" v2="27" v3="503"/>
+		<vertex id="25" x="-3.5000" y="0.0000" z="-3.5000" u1="-3.5000" v1="-3.5000" diffuse="0xffcccccc"/>
+		<face v1="26" v2="25" v3="27"/>
+		<vertex id="21" x="3.5387" y="0.2637" z="-3.2592" u1="3.5387" v1="-3.2592" diffuse="0xffcccccc"/>
+		<vertex id="64" x="3.4977" y="0.2138" z="3.3055" u1="3.4977" v1="3.3055" diffuse="0xffcccccc"/>
+		<vertex id="67" x="3.4977" y="0.2138" z="-3.3055" u1="3.4977" v1="-3.3055" diffuse="0xffcccccc"/>
+		<face v1="21" v2="64" v3="67"/>
+		<vertex id="20" x="3.8992" y="2.5582" z="-3.6197" u1="3.8992" v1="-3.6197" diffuse="0xffcccccc"/>
+		<vertex id="23" x="3.5387" y="0.2637" z="3.2592" u1="3.5387" v1="3.2592" diffuse="0xffcccccc"/>
+		<face v1="20" v2="23" v3="21"/>
+		<vertex id="65" x="3.8600" y="2.5445" z="-3.6747" u1="3.8600" v1="-3.6747" diffuse="0xffcccccc"/>
+		<face v1="65" v2="21" v3="67"/>
+		<vertex id="28" x="4.7491" y="7.2142" z="3.6197" u1="4.7491" v1="3.6197" diffuse="0xffcccccc"/>
+		<vertex id="66" x="4.7182" y="7.2962" z="-3.6941" u1="4.7182" v1="-3.6941" diffuse="0xffcccccc"/>
+		<vertex id="69" x="4.7182" y="7.2963" z="3.6941" u1="4.7182" v1="3.6941" diffuse="0xffcccccc"/>
+		<face v1="28" v2="66" v3="69"/>
+		<vertex id="90" x="4.3241" y="4.8862" z="-3.6197" u1="4.3241" v1="-3.6197" diffuse="0xffcccccc"/>
+		<vertex id="91" x="4.3241" y="4.8862" z="3.6197" u1="4.3241" v1="3.6197" diffuse="0xffcccccc"/>
+		<face v1="90" v2="28" v3="91"/>
+		<vertex id="89" x="-4.4524" y="5.0000" z="-3.8871" u1="-4.4524" v1="-3.8871" diffuse="0xffcccccc"/>
+		<vertex id="505" x="-4.3644" y="7.4984" z="-3.8842" u1="-4.3644" v1="-3.8842" diffuse="0xffcccccc"/>
+		<vertex id="506" x="-3.8671" y="4.9994" z="-3.8824" u1="-3.8671" v1="-3.8824" diffuse="0xffcccccc"/>
+		<face v1="89" v2="505" v3="506"/>
+		<vertex id="105" x="4.2891" y="4.9204" z="3.6844" u1="4.2891" v1="3.6844" diffuse="0xffcccccc"/>
+		<face v1="105" v2="28" v3="69"/>
+		<vertex id="34" x="-5.0176" y="7.5000" z="3.8871" u1="-5.0176" v1="3.8871" diffuse="0xffcccccc"/>
+		<vertex id="94" x="-5.5407" y="5.0000" z="3.8871" u1="-5.5407" v1="3.8871" diffuse="0xffcccccc"/>
+		<vertex id="92" x="-4.4524" y="5.0000" z="3.8871" u1="-4.4524" v1="3.8871" diffuse="0xffcccccc"/>
+		<face v1="34" v2="94" v3="92"/>
+		<vertex id="29" x="-5.0176" y="7.5000" z="3.8871" u1="-5.0176" v1="3.8871" diffuse="0xffcccccc"/>
+		<vertex id="88" x="-4.4524" y="5.0000" z="3.8871" u1="-4.4524" v1="3.8871" diffuse="0xffcccccc"/>
+		<face v1="29" v2="92" v3="88"/>
+		<vertex id="31" x="-5.0176" y="7.5000" z="-3.8871" u1="-5.0176" v1="-3.8871" diffuse="0xffcccccc"/>
+		<face v1="31" v2="34" v3="29"/>
+		<vertex id="93" x="-4.4524" y="5.0000" z="-3.8871" u1="-4.4524" v1="-3.8871" diffuse="0xffcccccc"/>
+		<face v1="24" v2="93" v3="89"/>
+		<vertex id="39" x="-6.1059" y="7.5000" z="-3.8871" u1="-6.1059" v1="-3.8871" diffuse="0xffcccccc"/>
+		<vertex id="95" x="-5.5407" y="5.0000" z="-3.8871" u1="-5.5407" v1="-3.8871" diffuse="0xffcccccc"/>
+		<face v1="94" v2="39" v3="95"/>
+		<vertex id="33" x="-3.8871" y="2.5000" z="3.8871" u1="-3.8871" v1="3.8871" diffuse="0xffcccccc"/>
+		<vertex id="36" x="-4.9755" y="2.5000" z="-3.8871" u1="-4.9755" v1="-3.8871" diffuse="0xffcccccc"/>
+		<face v1="33" v2="36" v3="32"/>
+		<face v1="93" v2="36" v3="95"/>
+		<vertex id="35" x="-5.0176" y="7.5000" z="-3.8871" u1="-5.0176" v1="-3.8871" diffuse="0xffcccccc"/>
+		<vertex id="38" x="-6.1059" y="7.5000" z="3.8871" u1="-6.1059" v1="3.8871" diffuse="0xffcccccc"/>
+		<face v1="35" v2="38" v3="34"/>
+		<vertex id="96" x="3.9979" y="4.9917" z="3.8182" u1="3.9979" v1="3.8182" diffuse="0xffcccccc"/>
+		<vertex id="114" x="0.7347" y="7.4860" z="3.8616" u1="0.7347" v1="3.8616" diffuse="0xffcccccc"/>
+		<vertex id="118" x="0.7013" y="4.9949" z="3.8451" u1="0.7013" v1="3.8451" diffuse="0xffcccccc"/>
+		<face v1="96" v2="114" v3="118"/>
+		<vertex id="111" x="4.0412" y="4.9928" z="-3.8262" u1="4.0412" v1="-3.8262" diffuse="0xffcccccc"/>
+		<vertex id="45" x="4.4141" y="7.4770" z="-3.8452" u1="4.4141" v1="-3.8452" diffuse="0xffcccccc"/>
+		<vertex id="87" x="4.4623" y="7.4799" z="-3.8504" u1="4.4623" v1="-3.8504" diffuse="0xffcccccc"/>
+		<face v1="111" v2="45" v3="87"/>
+		<vertex id="117" x="0.7347" y="7.4860" z="-3.8615" u1="0.7347" v1="-3.8615" diffuse="0xffcccccc"/>
+		<face v1="114" v2="45" v3="117"/>
+		<vertex id="116" x="0.6680" y="2.5039" z="-3.8287" u1="0.6680" v1="-3.8287" diffuse="0xffcccccc"/>
+		<vertex id="40" x="3.2253" y="0.0368" z="-3.4434" u1="3.2253" v1="-3.4434" diffuse="0xffcccccc"/>
+		<vertex id="112" x="0.6017" y="0.0224" z="-3.4655" u1="0.6017" v1="-3.4655" diffuse="0xffcccccc"/>
+		<face v1="116" v2="40" v3="112"/>
+		<vertex id="115" x="0.6017" y="0.0224" z="3.4655" u1="0.6017" v1="3.4655" diffuse="0xffcccccc"/>
+		<face v1="40" v2="115" v3="112"/>
+		<vertex id="85" x="3.2613" y="0.0438" z="3.4434" u1="3.2613" v1="3.4434" diffuse="0xffcccccc"/>
+		<vertex id="41" x="3.5817" y="2.5064" z="3.7913" u1="3.5817" v1="3.7913" diffuse="0xffcccccc"/>
+		<vertex id="42" x="3.2253" y="0.0368" z="3.4434" u1="3.2253" v1="3.4434" diffuse="0xffcccccc"/>
+		<face v1="85" v2="41" v3="42"/>
+		<vertex id="73" x="3.4163" y="0.1324" z="3.3779" u1="3.4163" v1="3.3779" diffuse="0xffcccccc"/>
+		<vertex id="50" x="3.7394" y="2.5159" z="3.7813" u1="3.7394" v1="3.7813" diffuse="0xffcccccc"/>
+		<vertex id="46" x="3.3762" y="0.1010" z="3.4041" u1="3.3762" v1="3.4041" diffuse="0xffcccccc"/>
+		<face v1="73" v2="50" v3="46"/>
+		<vertex id="98" x="4.1708" y="4.9843" z="-3.8070" u1="4.1708" v1="-3.8070" diffuse="0xffcccccc"/>
+		<vertex id="75" x="4.6443" y="7.4155" z="-3.8005" u1="4.6443" v1="-3.8005" diffuse="0xffcccccc"/>
+		<vertex id="107" x="4.2121" y="4.9694" z="-3.7780" u1="4.2121" v1="-3.7780" diffuse="0xffcccccc"/>
+		<face v1="98" v2="75" v3="107"/>
+		<vertex id="109" x="4.1283" y="4.9927" z="3.8243" u1="4.1283" v1="3.8243" diffuse="0xffcccccc"/>
+		<vertex id="51" x="4.6023" y="7.4527" z="3.8327" u1="4.6023" v1="3.8327" diffuse="0xffcccccc"/>
+		<vertex id="81" x="4.5575" y="7.4750" z="3.8510" u1="4.5575" v1="3.8510" diffuse="0xffcccccc"/>
+		<face v1="109" v2="51" v3="81"/>
+		<vertex id="78" x="4.5575" y="7.4750" z="-3.8510" u1="4.5575" v1="-3.8510" diffuse="0xffcccccc"/>
+		<face v1="51" v2="78" v3="81"/>
+		<vertex id="77" x="3.6991" y="2.5105" z="-3.7977" u1="3.6991" v1="-3.7977" diffuse="0xffcccccc"/>
+		<vertex id="49" x="3.3762" y="0.1010" z="-3.4041" u1="3.3762" v1="-3.4041" diffuse="0xffcccccc"/>
+		<vertex id="79" x="3.3369" y="0.0757" z="-3.4238" u1="3.3369" v1="-3.4238" diffuse="0xffcccccc"/>
+		<face v1="77" v2="49" v3="79"/>
+		<vertex id="76" x="3.3369" y="0.0757" z="3.4238" u1="3.3369" v1="3.4238" diffuse="0xffcccccc"/>
+		<face v1="49" v2="76" v3="79"/>
+		<vertex id="100" x="4.2516" y="4.9481" z="-3.7371" u1="4.2516" v1="-3.7371" diffuse="0xffcccccc"/>
+		<vertex id="104" x="4.2891" y="4.9204" z="-3.6844" u1="4.2891" v1="-3.6844" diffuse="0xffcccccc"/>
+		<face v1="100" v2="66" v3="104"/>
+		<vertex id="56" x="3.8201" y="2.5329" z="3.7200" u1="3.8201" v1="3.7200" diffuse="0xffcccccc"/>
+		<vertex id="52" x="3.4568" y="0.1700" z="3.3450" u1="3.4568" v1="3.3450" diffuse="0xffcccccc"/>
+		<face v1="64" v2="56" v3="52"/>
+		<vertex id="106" x="4.2121" y="4.9694" z="3.7780" u1="4.2121" v1="3.7780" diffuse="0xffcccccc"/>
+		<vertex id="57" x="4.6831" y="7.3633" z="3.7543" u1="4.6831" v1="3.7543" diffuse="0xffcccccc"/>
+		<vertex id="72" x="4.6443" y="7.4155" z="3.8005" u1="4.6443" v1="3.8005" diffuse="0xffcccccc"/>
+		<face v1="106" v2="57" v3="72"/>
+		<face v1="57" v2="75" v3="72"/>
+		<vertex id="74" x="3.7798" y="2.5233" z="-3.7555" u1="3.7798" v1="-3.7555" diffuse="0xffcccccc"/>
+		<vertex id="55" x="3.4568" y="0.1700" z="-3.3450" u1="3.4568" v1="-3.3450" diffuse="0xffcccccc"/>
+		<vertex id="70" x="3.4163" y="0.1324" z="-3.3779" u1="3.4163" v1="-3.3779" diffuse="0xffcccccc"/>
+		<face v1="74" v2="55" v3="70"/>
+		<face v1="55" v2="73" v3="70"/>
+		<vertex id="58" x="3.2986" y="0.0567" z="-3.4368" u1="3.2986" v1="-3.4368" diffuse="0xffcccccc"/>
+		<vertex id="82" x="3.2613" y="0.0438" z="-3.4434" u1="3.2613" v1="-3.4434" diffuse="0xffcccccc"/>
+		<face v1="58" v2="85" v3="82"/>
+		<vertex id="86" x="3.6201" y="2.5058" z="-3.8020" u1="3.6201" v1="-3.8020" diffuse="0xffcccccc"/>
+		<face v1="86" v2="58" v3="82"/>
+		<vertex id="60" x="4.5105" y="7.4825" z="3.8554" u1="4.5105" v1="3.8554" diffuse="0xffcccccc"/>
+		<vertex id="84" x="4.4623" y="7.4799" z="3.8504" u1="4.4623" v1="3.8504" diffuse="0xffcccccc"/>
+		<face v1="60" v2="87" v3="84"/>
+		<vertex id="102" x="4.0849" y="4.9948" z="3.8300" u1="4.0849" v1="3.8300" diffuse="0xffcccccc"/>
+		<vertex id="110" x="4.0412" y="4.9928" z="3.8262" u1="4.0412" v1="3.8262" diffuse="0xffcccccc"/>
+		<face v1="102" v2="84" v3="110"/>
+		<vertex id="59" x="3.6592" y="2.5071" z="3.8045" u1="3.6592" v1="3.8045" diffuse="0xffcccccc"/>
+		<vertex id="61" x="3.2986" y="0.0567" z="3.4368" u1="3.2986" v1="3.4368" diffuse="0xffcccccc"/>
+		<face v1="76" v2="59" v3="61"/>
+		<vertex id="103" x="4.0849" y="4.9948" z="-3.8300" u1="4.0849" v1="-3.8300" diffuse="0xffcccccc"/>
+		<vertex id="108" x="4.1283" y="4.9927" z="-3.8243" u1="4.1283" v1="-3.8243" diffuse="0xffcccccc"/>
+		<face v1="103" v2="78" v3="108"/>
+		<vertex id="68" x="3.8600" y="2.5445" z="3.6747" u1="3.8600" v1="3.6747" diffuse="0xffcccccc"/>
+		<face v1="23" v2="68" v3="64"/>
+		<vertex id="30" x="4.7491" y="7.2142" z="-3.6197" u1="4.7491" v1="-3.6197" diffuse="0xffcccccc"/>
+		<face v1="104" v2="30" v3="90"/>
+		<vertex id="101" x="4.2516" y="4.9481" z="3.7371" u1="4.2516" v1="3.7371" diffuse="0xffcccccc"/>
+		<face v1="101" v2="69" v3="57"/>
+		<vertex id="54" x="4.6831" y="7.3633" z="-3.7543" u1="4.6831" v1="-3.7543" diffuse="0xffcccccc"/>
+		<face v1="69" v2="54" v3="57"/>
+		<vertex id="53" x="3.8201" y="2.5329" z="-3.7200" u1="3.8201" v1="-3.7200" diffuse="0xffcccccc"/>
+		<face v1="53" v2="67" v3="55"/>
+		<face v1="67" v2="52" v3="55"/>
+		<face v1="70" v2="46" v3="49"/>
+		<vertex id="47" x="3.7394" y="2.5159" z="-3.7813" u1="3.7394" v1="-3.7813" diffuse="0xffcccccc"/>
+		<face v1="47" v2="70" v3="49"/>
+		<vertex id="48" x="4.6023" y="7.4527" z="-3.8327" u1="4.6023" v1="-3.8327" diffuse="0xffcccccc"/>
+		<face v1="72" v2="48" v3="51"/>
+		<vertex id="99" x="4.1708" y="4.9843" z="3.8070" u1="4.1708" v1="3.8070" diffuse="0xffcccccc"/>
+		<face v1="99" v2="72" v3="51"/>
+		<face v1="107" v2="54" v3="100"/>
+		<vertex id="71" x="3.7798" y="2.5233" z="3.7555" u1="3.7798" v1="3.7555" diffuse="0xffcccccc"/>
+		<face v1="52" v2="71" v3="73"/>
+		<face v1="108" v2="48" v3="98"/>
+		<vertex id="80" x="3.6991" y="2.5105" z="3.7977" u1="3.6991" v1="3.7977" diffuse="0xffcccccc"/>
+		<face v1="46" v2="80" v3="76"/>
+		<face v1="79" v2="61" v3="58"/>
+		<vertex id="62" x="3.6592" y="2.5071" z="-3.8045" u1="3.6592" v1="-3.8045" diffuse="0xffcccccc"/>
+		<face v1="62" v2="79" v3="58"/>
+		<vertex id="63" x="4.5105" y="7.4825" z="-3.8554" u1="4.5105" v1="-3.8554" diffuse="0xffcccccc"/>
+		<face v1="81" v2="63" v3="60"/>
+		<face v1="102" v2="81" v3="60"/>
+		<vertex id="44" x="4.4141" y="7.4770" z="3.8452" u1="4.4141" v1="3.8452" diffuse="0xffcccccc"/>
+		<face v1="110" v2="44" v3="96"/>
+		<face v1="84" v2="45" v3="44"/>
+		<vertex id="43" x="3.5817" y="2.5064" z="-3.7913" u1="3.5817" v1="-3.7913" diffuse="0xffcccccc"/>
+		<face v1="43" v2="82" v3="40"/>
+		<face v1="82" v2="42" v3="40"/>
+		<vertex id="83" x="3.6201" y="2.5058" z="3.8020" u1="3.6201" v1="3.8020" diffuse="0xffcccccc"/>
+		<face v1="61" v2="83" v3="85"/>
+		<face v1="103" v2="87" v3="63"/>
+		<vertex id="534" x="4.3849" y="4.9948" z="4.1312" u1="4.3849" v1="4.1312" diffuse="0xffcccccc"/>
+		<vertex id="541" x="4.4283" y="4.9927" z="4.1251" u1="4.4283" v1="4.1251" diffuse="0xffcccccc"/>
+		<face v1="109" v2="534" v3="541"/>
+		<vertex id="521" x="4.1600" y="2.5445" z="3.9638" u1="4.1600" v1="3.9638" diffuse="0xffcccccc"/>
+		<vertex id="522" x="4.1201" y="2.5329" z="4.0126" u1="4.1201" v1="4.0126" diffuse="0xffcccccc"/>
+		<face v1="56" v2="521" v3="522"/>
+		<vertex id="512" x="3.8817" y="2.5064" z="4.0895" u1="3.8817" v1="4.0895" diffuse="0xffcccccc"/>
+		<face v1="83" v2="512" v3="41"/>
+		<vertex id="507" x="4.1992" y="2.5582" z="-3.9044" u1="4.1992" v1="-3.9044" diffuse="0xffcccccc"/>
+		<face v1="65" v2="507" v3="20"/>
+		<vertex id="528" x="4.2979" y="4.9917" z="4.1186" u1="4.2979" v1="4.1186" diffuse="0xffcccccc"/>
+		<vertex id="542" x="4.3412" y="4.9928" z="4.1272" u1="4.3412" v1="4.1272" diffuse="0xffcccccc"/>
+		<face v1="110" v2="528" v3="542"/>
+		<vertex id="529" x="4.2979" y="4.9917" z="-4.1186" u1="4.2979" v1="-4.1186" diffuse="0xffcccccc"/>
+		<vertex id="97" x="3.9979" y="4.9917" z="-3.8182" u1="3.9979" v1="-3.8182" diffuse="0xffcccccc"/>
+		<face v1="111" v2="529" v3="97"/>
+		<vertex id="525" x="3.9201" y="2.5058" z="-4.1011" u1="3.9201" v1="-4.1011" diffuse="0xffcccccc"/>
+		<vertex id="526" x="3.9592" y="2.5071" z="-4.1038" u1="3.9592" v1="-4.1038" diffuse="0xffcccccc"/>
+		<face v1="62" v2="525" v3="526"/>
+		<vertex id="515" x="3.9991" y="2.5105" z="-4.0964" u1="3.9991" v1="-4.0964" diffuse="0xffcccccc"/>
+		<vertex id="516" x="4.0394" y="2.5159" z="-4.0788" u1="4.0394" v1="-4.0788" diffuse="0xffcccccc"/>
+		<face v1="47" v2="515" v3="516"/>
+		<vertex id="543" x="4.3412" y="4.9928" z="-4.1272" u1="4.3412" v1="-4.1272" diffuse="0xffcccccc"/>
+		<face v1="103" v2="543" v3="111"/>
+		<vertex id="530" x="4.4708" y="4.9843" z="-4.1065" u1="4.4708" v1="-4.1065" diffuse="0xffcccccc"/>
+		<face v1="107" v2="530" v3="98"/>
+		<vertex id="508" x="4.1992" y="2.5582" z="3.9044" u1="4.1992" v1="3.9044" diffuse="0xffcccccc"/>
+		<face v1="68" v2="508" v3="521"/>
+		<vertex id="519" x="4.0798" y="2.5233" z="-4.0508" u1="4.0798" v1="-4.0508" diffuse="0xffcccccc"/>
+		<vertex id="520" x="4.1201" y="2.5329" z="-4.0126" u1="4.1201" v1="-4.0126" diffuse="0xffcccccc"/>
+		<face v1="53" v2="519" v3="520"/>
+		<vertex id="531" x="4.4708" y="4.9843" z="4.1065" u1="4.4708" v1="4.1065" diffuse="0xffcccccc"/>
+		<face v1="99" v2="541" v3="531"/>
+		<vertex id="22" x="3.8992" y="2.5582" z="3.6197" u1="3.8992" v1="3.6197" diffuse="0xffcccccc"/>
+		<face v1="20" v2="508" v3="22"/>
+		<face v1="74" v2="516" v3="519"/>
+		<vertex id="536" x="4.5891" y="4.9204" z="-3.9742" u1="4.5891" v1="-3.9742" diffuse="0xffcccccc"/>
+		<vertex id="532" x="4.5516" y="4.9481" z="-4.0311" u1="4.5516" v1="-4.0311" diffuse="0xffcccccc"/>
+		<face v1="100" v2="536" v3="532"/>
+		<face v1="35" v2="95" v3="39"/>
+		<vertex id="37" x="-4.9755" y="2.5000" z="3.8871" u1="-4.9755" v1="3.8871" diffuse="0xffcccccc"/>
+		<face v1="37" v2="95" v3="36"/>
+		<face v1="89" v2="35" v3="31"/>
+		<face v1="88" v2="33" v3="26"/>
+		<face v1="92" v2="37" v3="33"/>
+		<vertex id="524" x="3.9592" y="2.5071" z="4.1038" u1="3.9592" v1="4.1038" diffuse="0xffcccccc"/>
+		<face v1="80" v2="524" v3="59"/>
+		<vertex id="504" x="-3.3699" y="2.5004" z="-3.8805" u1="-3.3699" v1="-3.8805" diffuse="0xffcccccc"/>
+		<face v1="24" v2="506" v3="504"/>
+		<vertex id="545" x="0.9680" y="2.5039" z="4.1298" u1="0.9680" v1="4.1298" diffuse="0xffcccccc"/>
+		<vertex id="113" x="0.6680" y="2.5039" z="3.8287" u1="0.6680" v1="3.8287" diffuse="0xffcccccc"/>
+		<face v1="41" v2="545" v3="113"/>
+		<vertex id="533" x="4.5516" y="4.9481" z="4.0311" u1="4.5516" v1="4.0311" diffuse="0xffcccccc"/>
+		<face v1="106" v2="533" v3="101"/>
+		<vertex id="496" x="-1.4492" y="0.0112" z="3.4828" u1="-1.4492" v1="3.4828" diffuse="0xffcccccc"/>
+		<vertex id="493" x="-1.4492" y="0.0112" z="-3.4828" u1="-1.4492" v1="-3.4828" diffuse="0xffcccccc"/>
+		<face v1="112" v2="496" v3="493"/>
+		<face v1="493" v2="116" v3="112"/>
+		<vertex id="498" x="-2.1415" y="7.4930" z="-3.8743" u1="-2.1415" v1="-3.8743" diffuse="0xffcccccc"/>
+		<vertex id="495" x="-2.1415" y="7.4930" z="3.8743" u1="-2.1415" v1="3.8743" diffuse="0xffcccccc"/>
+		<face v1="114" v2="498" v3="495"/>
+		<face v1="97" v2="117" v3="45"/>
+		<face v1="42" v2="113" v3="115"/>
+		<vertex id="128" x="-3.5842" y="5.7815" z="3.8825" u1="-3.5842" v1="3.8825" diffuse="0xffcccccc"/>
+		<vertex id="126" x="-2.7842" y="5.1650" z="3.8747" u1="-2.7842" v1="3.8747" diffuse="0xffcccccc"/>
+		<face v1="128" v2="131" v3="126"/>
+		<vertex id="4" x="-0.3842" y="2.9650" z="4.0682" u1="-0.3842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="150" x="-0.3842" y="4.7823" z="3.8544" u1="-0.3842" v1="3.8544" diffuse="0xffcccccc"/>
+		<vertex id="149" x="-0.3842" y="2.9650" z="3.8453" u1="-0.3842" v1="3.8453" diffuse="0xffcccccc"/>
+		<face v1="4" v2="150" v3="149"/>
+		<vertex id="133" x="-2.7842" y="6.4323" z="3.8783" u1="-2.7842" v1="3.8783" diffuse="0xffcccccc"/>
+		<vertex id="134" x="-2.7842" y="5.7995" z="3.8789" u1="-2.7842" v1="3.8789" diffuse="0xffcccccc"/>
+		<face v1="17" v2="133" v3="134"/>
+		<vertex id="129" x="-3.5842" y="5.4161" z="3.8829" u1="-3.5842" v1="3.8829" diffuse="0xffcccccc"/>
+		<vertex id="0" x="-3.5842" y="5.1650" z="4.0682" u1="-3.5842" v1="4.0682" diffuse="0xffcccccc"/>
+		<face v1="128" v2="129" v3="0"/>
+		<vertex id="139" x="-1.9842" y="5.8823" z="3.8730" u1="-1.9842" v1="3.8730" diffuse="0xffcccccc"/>
+		<vertex id="140" x="-1.9842" y="4.9976" z="3.8670" u1="-1.9842" v1="3.8670" diffuse="0xffcccccc"/>
+		<face v1="13" v2="139" v3="140"/>
+		<face v1="128" v2="129" v3="126"/>
+		<vertex id="459" x="0.1491" y="4.7823" z="3.8497" u1="0.1491" v1="3.8497" diffuse="0xffcccccc"/>
+		<vertex id="458" x="0.1872" y="4.7823" z="3.8494" u1="0.1872" v1="3.8494" diffuse="0xffcccccc"/>
+		<face v1="459" v2="458" v3="118"/>
+		<vertex id="8" x="-1.1842" y="3.5150" z="4.0682" u1="-1.1842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="143" x="-1.1842" y="5.3323" z="3.8627" u1="-1.1842" v1="3.8627" diffuse="0xffcccccc"/>
+		<vertex id="145" x="-1.1842" y="3.5150" z="3.8593" u1="-1.1842" v1="3.8593" diffuse="0xffcccccc"/>
+		<face v1="8" v2="143" v3="145"/>
+		<vertex id="172" x="-3.5461" y="5.1650" z="4.1215" u1="-3.5461" v1="4.1215" diffuse="0xffcccccc"/>
+		<vertex id="1" x="-3.5842" y="6.9823" z="4.0682" u1="-3.5842" v1="4.0682" diffuse="0xffcccccc"/>
+		<face v1="172" v2="1" v3="0"/>
+		<vertex id="171" x="-3.5080" y="5.1650" z="4.1648" u1="-3.5080" v1="4.1648" diffuse="0xffcccccc"/>
+		<vertex id="173" x="-3.5461" y="6.9823" z="4.1215" u1="-3.5461" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="171" v2="173" v3="172"/>
+		<vertex id="170" x="-3.4699" y="5.1650" z="4.1981" u1="-3.4699" v1="4.1981" diffuse="0xffcccccc"/>
+		<vertex id="174" x="-3.5080" y="6.9823" z="4.1648" u1="-3.5080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="170" v2="174" v3="171"/>
+		<vertex id="169" x="-3.4318" y="5.1650" z="4.2212" u1="-3.4318" v1="4.2212" diffuse="0xffcccccc"/>
+		<vertex id="175" x="-3.4699" y="6.9823" z="4.1981" u1="-3.4699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="169" v2="175" v3="170"/>
+		<vertex id="168" x="-3.3937" y="5.1650" z="4.2343" u1="-3.3937" v1="4.2343" diffuse="0xffcccccc"/>
+		<vertex id="176" x="-3.4318" y="6.9823" z="4.2212" u1="-3.4318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="168" v2="176" v3="169"/>
+		<vertex id="167" x="-3.3556" y="5.1650" z="4.2375" u1="-3.3556" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="177" x="-3.3937" y="6.9823" z="4.2343" u1="-3.3937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="167" v2="177" v3="168"/>
+		<vertex id="178" x="-3.3556" y="6.9823" z="4.2375" u1="-3.3556" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="166" v2="178" v3="167"/>
+		<vertex id="179" x="-3.3175" y="6.9823" z="4.2375" u1="-3.3175" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="165" v2="179" v3="166"/>
+		<vertex id="164" x="-3.2413" y="5.1650" z="4.2375" u1="-3.2413" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="180" x="-3.2794" y="6.9823" z="4.2375" u1="-3.2794" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="164" v2="180" v3="165"/>
+		<vertex id="163" x="-3.2033" y="5.1650" z="4.2375" u1="-3.2033" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="181" x="-3.2413" y="6.9823" z="4.2375" u1="-3.2413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="163" v2="181" v3="164"/>
+		<vertex id="162" x="-3.1652" y="5.1650" z="4.2375" u1="-3.1652" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="162" v2="182" v3="163"/>
+		<vertex id="161" x="-3.1271" y="5.1650" z="4.2375" u1="-3.1271" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="161" v2="183" v3="162"/>
+		<vertex id="160" x="-3.0890" y="5.1650" z="4.2375" u1="-3.0890" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="184" x="-3.1271" y="6.9823" z="4.2375" u1="-3.1271" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="160" v2="184" v3="161"/>
+		<vertex id="159" x="-3.0509" y="5.1650" z="4.2375" u1="-3.0509" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="185" x="-3.0890" y="6.9823" z="4.2375" u1="-3.0890" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="159" v2="185" v3="160"/>
+		<vertex id="158" x="-3.0128" y="5.1650" z="4.2375" u1="-3.0128" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="186" x="-3.0509" y="6.9823" z="4.2375" u1="-3.0509" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="158" v2="186" v3="159"/>
+		<vertex id="157" x="-2.9747" y="5.1650" z="4.2343" u1="-2.9747" v1="4.2343" diffuse="0xffcccccc"/>
+		<vertex id="187" x="-3.0128" y="6.9823" z="4.2375" u1="-3.0128" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="157" v2="187" v3="158"/>
+		<vertex id="156" x="-2.9366" y="5.1650" z="4.2212" u1="-2.9366" v1="4.2212" diffuse="0xffcccccc"/>
+		<vertex id="188" x="-2.9747" y="6.9823" z="4.2343" u1="-2.9747" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="156" v2="188" v3="157"/>
+		<vertex id="155" x="-2.8985" y="5.1650" z="4.1981" u1="-2.8985" v1="4.1981" diffuse="0xffcccccc"/>
+		<vertex id="189" x="-2.9366" y="6.9823" z="4.2212" u1="-2.9366" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="155" v2="189" v3="156"/>
+		<vertex id="154" x="-2.8604" y="5.1650" z="4.1648" u1="-2.8604" v1="4.1648" diffuse="0xffcccccc"/>
+		<vertex id="190" x="-2.8985" y="6.9823" z="4.1981" u1="-2.8985" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="154" v2="190" v3="155"/>
+		<vertex id="191" x="-2.8604" y="6.9823" z="4.1648" u1="-2.8604" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="153" v2="191" v3="154"/>
+		<vertex id="252" x="-2.0223" y="6.4323" z="3.8749" u1="-2.0223" v1="3.8749" diffuse="0xffcccccc"/>
+		<face v1="19" v2="252" v3="232"/>
+		<vertex id="251" x="-2.0604" y="6.4323" z="3.8751" u1="-2.0604" v1="3.8751" diffuse="0xffcccccc"/>
+		<vertex id="231" x="-2.0604" y="6.4323" z="4.1648" u1="-2.0604" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="232" v2="251" v3="231"/>
+		<vertex id="250" x="-2.0985" y="6.4323" z="3.8752" u1="-2.0985" v1="3.8752" diffuse="0xffcccccc"/>
+		<vertex id="230" x="-2.0985" y="6.4323" z="4.1981" u1="-2.0985" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="231" v2="250" v3="230"/>
+		<vertex id="249" x="-2.1366" y="6.4323" z="3.8754" u1="-2.1366" v1="3.8754" diffuse="0xffcccccc"/>
+		<vertex id="229" x="-2.1366" y="6.4323" z="4.2212" u1="-2.1366" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="230" v2="249" v3="229"/>
+		<vertex id="248" x="-2.1747" y="6.4323" z="3.8756" u1="-2.1747" v1="3.8756" diffuse="0xffcccccc"/>
+		<vertex id="228" x="-2.1747" y="6.4323" z="4.2343" u1="-2.1747" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="229" v2="248" v3="228"/>
+		<vertex id="247" x="-2.2128" y="6.4323" z="3.8757" u1="-2.2128" v1="3.8757" diffuse="0xffcccccc"/>
+		<vertex id="227" x="-2.2128" y="6.4323" z="4.2375" u1="-2.2128" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="228" v2="247" v3="227"/>
+		<vertex id="246" x="-2.2509" y="6.4323" z="3.8759" u1="-2.2509" v1="3.8759" diffuse="0xffcccccc"/>
+		<vertex id="226" x="-2.2509" y="6.4323" z="4.2375" u1="-2.2509" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="227" v2="246" v3="226"/>
+		<vertex id="245" x="-2.2890" y="6.4323" z="3.8761" u1="-2.2890" v1="3.8761" diffuse="0xffcccccc"/>
+		<vertex id="225" x="-2.2890" y="6.4323" z="4.2375" u1="-2.2890" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="226" v2="245" v3="225"/>
+		<vertex id="244" x="-2.3271" y="6.4323" z="3.8762" u1="-2.3271" v1="3.8762" diffuse="0xffcccccc"/>
+		<vertex id="224" x="-2.3271" y="6.4323" z="4.2375" u1="-2.3271" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="225" v2="244" v3="224"/>
+		<vertex id="243" x="-2.3652" y="6.4323" z="3.8764" u1="-2.3652" v1="3.8764" diffuse="0xffcccccc"/>
+		<vertex id="223" x="-2.3652" y="6.4323" z="4.2375" u1="-2.3652" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="224" v2="243" v3="223"/>
+		<vertex id="242" x="-2.4033" y="6.4323" z="3.8766" u1="-2.4033" v1="3.8766" diffuse="0xffcccccc"/>
+		<vertex id="222" x="-2.4033" y="6.4323" z="4.2375" u1="-2.4033" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="223" v2="242" v3="222"/>
+		<vertex id="241" x="-2.4413" y="6.4323" z="3.8767" u1="-2.4413" v1="3.8767" diffuse="0xffcccccc"/>
+		<vertex id="221" x="-2.4413" y="6.4323" z="4.2375" u1="-2.4413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="222" v2="241" v3="221"/>
+		<vertex id="240" x="-2.4794" y="6.4323" z="3.8769" u1="-2.4794" v1="3.8769" diffuse="0xffcccccc"/>
+		<vertex id="220" x="-2.4794" y="6.4323" z="4.2375" u1="-2.4794" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="221" v2="240" v3="220"/>
+		<vertex id="239" x="-2.5175" y="6.4323" z="3.8771" u1="-2.5175" v1="3.8771" diffuse="0xffcccccc"/>
+		<vertex id="219" x="-2.5175" y="6.4323" z="4.2375" u1="-2.5175" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="220" v2="239" v3="219"/>
+		<vertex id="238" x="-2.5556" y="6.4323" z="3.8773" u1="-2.5556" v1="3.8773" diffuse="0xffcccccc"/>
+		<vertex id="218" x="-2.5556" y="6.4323" z="4.2375" u1="-2.5556" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="219" v2="238" v3="218"/>
+		<vertex id="217" x="-2.5937" y="6.4323" z="4.2343" u1="-2.5937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="238" v2="217" v3="218"/>
+		<vertex id="237" x="-2.5937" y="6.4323" z="3.8774" u1="-2.5937" v1="3.8774" diffuse="0xffcccccc"/>
+		<vertex id="216" x="-2.6318" y="6.4323" z="4.2212" u1="-2.6318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="237" v2="216" v3="217"/>
+		<vertex id="236" x="-2.6318" y="6.4323" z="3.8776" u1="-2.6318" v1="3.8776" diffuse="0xffcccccc"/>
+		<vertex id="215" x="-2.6699" y="6.4323" z="4.1981" u1="-2.6699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="236" v2="215" v3="216"/>
+		<vertex id="235" x="-2.6699" y="6.4323" z="3.8778" u1="-2.6699" v1="3.8778" diffuse="0xffcccccc"/>
+		<vertex id="214" x="-2.7080" y="6.4323" z="4.1648" u1="-2.7080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="235" v2="214" v3="215"/>
+		<vertex id="234" x="-2.7080" y="6.4323" z="3.8779" u1="-2.7080" v1="3.8779" diffuse="0xffcccccc"/>
+		<face v1="234" v2="213" v3="214"/>
+		<vertex id="212" x="-2.7461" y="4.6150" z="4.1215" u1="-2.7461" v1="4.1215" diffuse="0xffcccccc"/>
+		<vertex id="16" x="-2.7842" y="4.6150" z="4.0682" u1="-2.7842" v1="4.0682" diffuse="0xffcccccc"/>
+		<face v1="212" v2="17" v3="16"/>
+		<vertex id="211" x="-2.7080" y="4.6150" z="4.1648" u1="-2.7080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="211" v2="213" v3="212"/>
+		<vertex id="210" x="-2.6699" y="4.6150" z="4.1981" u1="-2.6699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="210" v2="214" v3="211"/>
+		<vertex id="209" x="-2.6318" y="4.6150" z="4.2212" u1="-2.6318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="209" v2="215" v3="210"/>
+		<face v1="209" v2="217" v3="216"/>
+		<vertex id="207" x="-2.5556" y="4.6150" z="4.2375" u1="-2.5556" v1="4.2375" diffuse="0xffcccccc"/>
+		<vertex id="208" x="-2.5937" y="4.6150" z="4.2343" u1="-2.5937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="207" v2="217" v3="208"/>
+		<face v1="206" v2="218" v3="207"/>
+		<face v1="205" v2="219" v3="206"/>
+		<vertex id="204" x="-2.4413" y="4.6150" z="4.2375" u1="-2.4413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="204" v2="220" v3="205"/>
+		<vertex id="203" x="-2.4033" y="4.6150" z="4.2375" u1="-2.4033" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="203" v2="221" v3="204"/>
+		<vertex id="202" x="-2.3652" y="4.6150" z="4.2375" u1="-2.3652" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="202" v2="222" v3="203"/>
+		<vertex id="201" x="-2.3271" y="4.6150" z="4.2375" u1="-2.3271" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="201" v2="223" v3="202"/>
+		<vertex id="200" x="-2.2890" y="4.6150" z="4.2375" u1="-2.2890" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="200" v2="224" v3="201"/>
+		<vertex id="199" x="-2.2509" y="4.6150" z="4.2375" u1="-2.2509" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="199" v2="225" v3="200"/>
+		<vertex id="198" x="-2.2128" y="4.6150" z="4.2375" u1="-2.2128" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="198" v2="226" v3="199"/>
+		<vertex id="197" x="-2.1747" y="4.6150" z="4.2343" u1="-2.1747" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="197" v2="227" v3="198"/>
+		<face v1="197" v2="229" v3="228"/>
+		<vertex id="195" x="-2.0985" y="4.6150" z="4.1981" u1="-2.0985" v1="4.1981" diffuse="0xffcccccc"/>
+		<vertex id="196" x="-2.1366" y="4.6150" z="4.2212" u1="-2.1366" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="195" v2="229" v3="196"/>
+		<vertex id="194" x="-2.0604" y="4.6150" z="4.1648" u1="-2.0604" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="194" v2="230" v3="195"/>
+		<face v1="193" v2="231" v3="194"/>
+		<vertex id="312" x="-1.2223" y="5.8823" z="3.8667" u1="-1.2223" v1="3.8667" diffuse="0xffcccccc"/>
+		<face v1="15" v2="312" v3="292"/>
+		<vertex id="311" x="-1.2604" y="5.8823" z="3.8671" u1="-1.2604" v1="3.8671" diffuse="0xffcccccc"/>
+		<vertex id="291" x="-1.2604" y="5.8823" z="4.1648" u1="-1.2604" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="292" v2="311" v3="291"/>
+		<vertex id="310" x="-1.2985" y="5.8823" z="3.8674" u1="-1.2985" v1="3.8674" diffuse="0xffcccccc"/>
+		<vertex id="290" x="-1.2985" y="5.8823" z="4.1981" u1="-1.2985" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="291" v2="310" v3="290"/>
+		<vertex id="309" x="-1.3366" y="5.8823" z="3.8677" u1="-1.3366" v1="3.8677" diffuse="0xffcccccc"/>
+		<vertex id="289" x="-1.3366" y="5.8823" z="4.2212" u1="-1.3366" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="290" v2="309" v3="289"/>
+		<vertex id="308" x="-1.3747" y="5.8823" z="3.8680" u1="-1.3747" v1="3.8680" diffuse="0xffcccccc"/>
+		<vertex id="288" x="-1.3747" y="5.8823" z="4.2343" u1="-1.3747" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="289" v2="308" v3="288"/>
+		<vertex id="307" x="-1.4128" y="5.8823" z="3.8683" u1="-1.4128" v1="3.8683" diffuse="0xffcccccc"/>
+		<vertex id="287" x="-1.4128" y="5.8823" z="4.2375" u1="-1.4128" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="288" v2="307" v3="287"/>
+		<vertex id="306" x="-1.4509" y="5.8823" z="3.8686" u1="-1.4509" v1="3.8686" diffuse="0xffcccccc"/>
+		<vertex id="286" x="-1.4509" y="5.8823" z="4.2375" u1="-1.4509" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="287" v2="306" v3="286"/>
+		<vertex id="305" x="-1.4890" y="5.8823" z="3.8689" u1="-1.4890" v1="3.8689" diffuse="0xffcccccc"/>
+		<vertex id="285" x="-1.4890" y="5.8823" z="4.2375" u1="-1.4890" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="286" v2="305" v3="285"/>
+		<vertex id="304" x="-1.5271" y="5.8823" z="3.8692" u1="-1.5271" v1="3.8692" diffuse="0xffcccccc"/>
+		<vertex id="284" x="-1.5271" y="5.8823" z="4.2375" u1="-1.5271" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="285" v2="304" v3="284"/>
+		<vertex id="303" x="-1.5652" y="5.8823" z="3.8695" u1="-1.5652" v1="3.8695" diffuse="0xffcccccc"/>
+		<vertex id="283" x="-1.5652" y="5.8823" z="4.2375" u1="-1.5652" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="284" v2="303" v3="283"/>
+		<vertex id="302" x="-1.6033" y="5.8823" z="3.8698" u1="-1.6033" v1="3.8698" diffuse="0xffcccccc"/>
+		<vertex id="282" x="-1.6033" y="5.8823" z="4.2375" u1="-1.6033" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="283" v2="302" v3="282"/>
+		<vertex id="301" x="-1.6413" y="5.8823" z="3.8702" u1="-1.6413" v1="3.8702" diffuse="0xffcccccc"/>
+		<vertex id="281" x="-1.6413" y="5.8823" z="4.2375" u1="-1.6413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="282" v2="301" v3="281"/>
+		<vertex id="300" x="-1.6794" y="5.8823" z="3.8705" u1="-1.6794" v1="3.8705" diffuse="0xffcccccc"/>
+		<vertex id="280" x="-1.6794" y="5.8823" z="4.2375" u1="-1.6794" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="281" v2="300" v3="280"/>
+		<vertex id="299" x="-1.7175" y="5.8823" z="3.8708" u1="-1.7175" v1="3.8708" diffuse="0xffcccccc"/>
+		<vertex id="279" x="-1.7175" y="5.8823" z="4.2375" u1="-1.7175" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="280" v2="299" v3="279"/>
+		<vertex id="298" x="-1.7556" y="5.8823" z="3.8711" u1="-1.7556" v1="3.8711" diffuse="0xffcccccc"/>
+		<vertex id="278" x="-1.7556" y="5.8823" z="4.2375" u1="-1.7556" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="279" v2="298" v3="278"/>
+		<vertex id="277" x="-1.7937" y="5.8823" z="4.2343" u1="-1.7937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="298" v2="277" v3="278"/>
+		<vertex id="297" x="-1.7937" y="5.8823" z="3.8714" u1="-1.7937" v1="3.8714" diffuse="0xffcccccc"/>
+		<vertex id="276" x="-1.8318" y="5.8823" z="4.2212" u1="-1.8318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="297" v2="276" v3="277"/>
+		<vertex id="296" x="-1.8318" y="5.8823" z="3.8717" u1="-1.8318" v1="3.8717" diffuse="0xffcccccc"/>
+		<vertex id="275" x="-1.8699" y="5.8823" z="4.1981" u1="-1.8699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="296" v2="275" v3="276"/>
+		<vertex id="295" x="-1.8699" y="5.8823" z="3.8720" u1="-1.8699" v1="3.8720" diffuse="0xffcccccc"/>
+		<vertex id="274" x="-1.9080" y="5.8823" z="4.1648" u1="-1.9080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="295" v2="274" v3="275"/>
+		<vertex id="294" x="-1.9080" y="5.8823" z="3.8723" u1="-1.9080" v1="3.8723" diffuse="0xffcccccc"/>
+		<face v1="294" v2="273" v3="274"/>
+		<vertex id="12" x="-1.9842" y="4.0650" z="4.0682" u1="-1.9842" v1="4.0682" diffuse="0xffcccccc"/>
+		<vertex id="332" x="-1.9461" y="4.0650" z="3.8684" u1="-1.9461" v1="3.8684" diffuse="0xffcccccc"/>
+		<vertex id="272" x="-1.9461" y="4.0650" z="4.1215" u1="-1.9461" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="12" v2="332" v3="272"/>
+		<vertex id="331" x="-1.9080" y="4.0650" z="3.8681" u1="-1.9080" v1="3.8681" diffuse="0xffcccccc"/>
+		<vertex id="271" x="-1.9080" y="4.0650" z="4.1648" u1="-1.9080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="272" v2="331" v3="271"/>
+		<vertex id="330" x="-1.8699" y="4.0650" z="3.8678" u1="-1.8699" v1="3.8678" diffuse="0xffcccccc"/>
+		<vertex id="270" x="-1.8699" y="4.0650" z="4.1981" u1="-1.8699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="271" v2="330" v3="270"/>
+		<vertex id="329" x="-1.8318" y="4.0650" z="3.8675" u1="-1.8318" v1="3.8675" diffuse="0xffcccccc"/>
+		<vertex id="269" x="-1.8318" y="4.0650" z="4.2212" u1="-1.8318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="270" v2="329" v3="269"/>
+		<vertex id="328" x="-1.7937" y="4.0650" z="3.8672" u1="-1.7937" v1="3.8672" diffuse="0xffcccccc"/>
+		<vertex id="268" x="-1.7937" y="4.0650" z="4.2343" u1="-1.7937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="269" v2="328" v3="268"/>
+		<vertex id="327" x="-1.7556" y="4.0650" z="3.8669" u1="-1.7556" v1="3.8669" diffuse="0xffcccccc"/>
+		<vertex id="267" x="-1.7556" y="4.0650" z="4.2375" u1="-1.7556" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="268" v2="327" v3="267"/>
+		<vertex id="266" x="-1.7175" y="4.0650" z="4.2375" u1="-1.7175" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="327" v2="266" v3="267"/>
+		<vertex id="326" x="-1.7175" y="4.0650" z="3.8666" u1="-1.7175" v1="3.8666" diffuse="0xffcccccc"/>
+		<vertex id="265" x="-1.6794" y="4.0650" z="4.2375" u1="-1.6794" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="326" v2="265" v3="266"/>
+		<vertex id="325" x="-1.6794" y="4.0650" z="3.8663" u1="-1.6794" v1="3.8663" diffuse="0xffcccccc"/>
+		<vertex id="264" x="-1.6413" y="4.0650" z="4.2375" u1="-1.6413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="325" v2="264" v3="265"/>
+		<vertex id="324" x="-1.6413" y="4.0650" z="3.8659" u1="-1.6413" v1="3.8659" diffuse="0xffcccccc"/>
+		<vertex id="263" x="-1.6033" y="4.0650" z="4.2375" u1="-1.6033" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="324" v2="263" v3="264"/>
+		<vertex id="323" x="-1.6033" y="4.0650" z="3.8656" u1="-1.6033" v1="3.8656" diffuse="0xffcccccc"/>
+		<vertex id="262" x="-1.5652" y="4.0650" z="4.2375" u1="-1.5652" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="323" v2="262" v3="263"/>
+		<vertex id="322" x="-1.5652" y="4.0650" z="3.8653" u1="-1.5652" v1="3.8653" diffuse="0xffcccccc"/>
+		<vertex id="261" x="-1.5271" y="4.0650" z="4.2375" u1="-1.5271" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="322" v2="261" v3="262"/>
+		<vertex id="321" x="-1.5271" y="4.0650" z="3.8650" u1="-1.5271" v1="3.8650" diffuse="0xffcccccc"/>
+		<vertex id="260" x="-1.4890" y="4.0650" z="4.2375" u1="-1.4890" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="321" v2="260" v3="261"/>
+		<vertex id="320" x="-1.4890" y="4.0650" z="3.8647" u1="-1.4890" v1="3.8647" diffuse="0xffcccccc"/>
+		<vertex id="259" x="-1.4509" y="4.0650" z="4.2375" u1="-1.4509" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="320" v2="259" v3="260"/>
+		<vertex id="319" x="-1.4509" y="4.0650" z="3.8644" u1="-1.4509" v1="3.8644" diffuse="0xffcccccc"/>
+		<vertex id="258" x="-1.4128" y="4.0650" z="4.2375" u1="-1.4128" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="319" v2="258" v3="259"/>
+		<vertex id="318" x="-1.4128" y="4.0650" z="3.8641" u1="-1.4128" v1="3.8641" diffuse="0xffcccccc"/>
+		<vertex id="257" x="-1.3747" y="4.0650" z="4.2343" u1="-1.3747" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="318" v2="257" v3="258"/>
+		<vertex id="317" x="-1.3747" y="4.0650" z="3.8638" u1="-1.3747" v1="3.8638" diffuse="0xffcccccc"/>
+		<vertex id="256" x="-1.3366" y="4.0650" z="4.2212" u1="-1.3366" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="317" v2="256" v3="257"/>
+		<vertex id="316" x="-1.3366" y="4.0650" z="3.8635" u1="-1.3366" v1="3.8635" diffuse="0xffcccccc"/>
+		<vertex id="255" x="-1.2985" y="4.0650" z="4.1981" u1="-1.2985" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="316" v2="255" v3="256"/>
+		<vertex id="315" x="-1.2985" y="4.0650" z="3.8631" u1="-1.2985" v1="3.8631" diffuse="0xffcccccc"/>
+		<vertex id="254" x="-1.2604" y="4.0650" z="4.1648" u1="-1.2604" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="315" v2="254" v3="255"/>
+		<vertex id="314" x="-1.2604" y="4.0650" z="3.8628" u1="-1.2604" v1="3.8628" diffuse="0xffcccccc"/>
+		<face v1="314" v2="253" v3="254"/>
+		<face v1="272" v2="13" v3="12"/>
+		<face v1="271" v2="273" v3="272"/>
+		<face v1="270" v2="274" v3="271"/>
+		<face v1="269" v2="275" v3="270"/>
+		<face v1="269" v2="277" v3="276"/>
+		<face v1="267" v2="277" v3="268"/>
+		<face v1="266" v2="278" v3="267"/>
+		<face v1="265" v2="279" v3="266"/>
+		<face v1="264" v2="280" v3="265"/>
+		<face v1="263" v2="281" v3="264"/>
+		<face v1="262" v2="282" v3="263"/>
+		<face v1="261" v2="283" v3="262"/>
+		<face v1="260" v2="284" v3="261"/>
+		<face v1="259" v2="285" v3="260"/>
+		<face v1="258" v2="286" v3="259"/>
+		<face v1="257" v2="287" v3="258"/>
+		<face v1="256" v2="288" v3="257"/>
+		<face v1="255" v2="289" v3="256"/>
+		<face v1="254" v2="290" v3="255"/>
+		<face v1="253" v2="291" v3="254"/>
+		<vertex id="392" x="-0.4223" y="5.3323" z="3.8565" u1="-0.4223" v1="3.8565" diffuse="0xffcccccc"/>
+		<face v1="11" v2="392" v3="372"/>
+		<vertex id="391" x="-0.4604" y="5.3323" z="3.8568" u1="-0.4604" v1="3.8568" diffuse="0xffcccccc"/>
+		<vertex id="371" x="-0.4604" y="5.3323" z="4.1648" u1="-0.4604" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="372" v2="391" v3="371"/>
+		<vertex id="390" x="-0.4985" y="5.3323" z="3.8572" u1="-0.4985" v1="3.8572" diffuse="0xffcccccc"/>
+		<vertex id="370" x="-0.4985" y="5.3323" z="4.1981" u1="-0.4985" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="371" v2="390" v3="370"/>
+		<vertex id="389" x="-0.5366" y="5.3323" z="3.8575" u1="-0.5366" v1="3.8575" diffuse="0xffcccccc"/>
+		<vertex id="369" x="-0.5366" y="5.3323" z="4.2212" u1="-0.5366" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="370" v2="389" v3="369"/>
+		<vertex id="388" x="-0.5747" y="5.3323" z="3.8578" u1="-0.5747" v1="3.8578" diffuse="0xffcccccc"/>
+		<vertex id="368" x="-0.5747" y="5.3323" z="4.2343" u1="-0.5747" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="369" v2="388" v3="368"/>
+		<vertex id="387" x="-0.6128" y="5.3323" z="3.8581" u1="-0.6128" v1="3.8581" diffuse="0xffcccccc"/>
+		<vertex id="367" x="-0.6128" y="5.3323" z="4.2375" u1="-0.6128" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="368" v2="387" v3="367"/>
+		<vertex id="386" x="-0.6509" y="5.3323" z="3.8584" u1="-0.6509" v1="3.8584" diffuse="0xffcccccc"/>
+		<vertex id="366" x="-0.6509" y="5.3323" z="4.2375" u1="-0.6509" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="367" v2="386" v3="366"/>
+		<vertex id="385" x="-0.6890" y="5.3323" z="3.8587" u1="-0.6890" v1="3.8587" diffuse="0xffcccccc"/>
+		<vertex id="365" x="-0.6890" y="5.3323" z="4.2375" u1="-0.6890" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="366" v2="385" v3="365"/>
+		<vertex id="384" x="-0.7271" y="5.3323" z="3.8590" u1="-0.7271" v1="3.8590" diffuse="0xffcccccc"/>
+		<vertex id="364" x="-0.7271" y="5.3323" z="4.2375" u1="-0.7271" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="365" v2="384" v3="364"/>
+		<vertex id="383" x="-0.7652" y="5.3323" z="3.8593" u1="-0.7652" v1="3.8593" diffuse="0xffcccccc"/>
+		<vertex id="363" x="-0.7652" y="5.3323" z="4.2375" u1="-0.7652" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="364" v2="383" v3="363"/>
+		<vertex id="382" x="-0.8033" y="5.3323" z="3.8596" u1="-0.8033" v1="3.8596" diffuse="0xffcccccc"/>
+		<vertex id="362" x="-0.8033" y="5.3323" z="4.2375" u1="-0.8033" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="363" v2="382" v3="362"/>
+		<vertex id="381" x="-0.8413" y="5.3323" z="3.8600" u1="-0.8413" v1="3.8600" diffuse="0xffcccccc"/>
+		<vertex id="361" x="-0.8413" y="5.3323" z="4.2375" u1="-0.8413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="362" v2="381" v3="361"/>
+		<vertex id="380" x="-0.8794" y="5.3323" z="3.8603" u1="-0.8794" v1="3.8603" diffuse="0xffcccccc"/>
+		<vertex id="360" x="-0.8794" y="5.3323" z="4.2375" u1="-0.8794" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="361" v2="380" v3="360"/>
+		<vertex id="379" x="-0.9175" y="5.3323" z="3.8606" u1="-0.9175" v1="3.8606" diffuse="0xffcccccc"/>
+		<vertex id="359" x="-0.9175" y="5.3323" z="4.2375" u1="-0.9175" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="360" v2="379" v3="359"/>
+		<vertex id="378" x="-0.9556" y="5.3323" z="3.8609" u1="-0.9556" v1="3.8609" diffuse="0xffcccccc"/>
+		<vertex id="358" x="-0.9556" y="5.3323" z="4.2375" u1="-0.9556" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="359" v2="378" v3="358"/>
+		<vertex id="357" x="-0.9937" y="5.3323" z="4.2343" u1="-0.9937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="378" v2="357" v3="358"/>
+		<vertex id="377" x="-0.9937" y="5.3323" z="3.8612" u1="-0.9937" v1="3.8612" diffuse="0xffcccccc"/>
+		<vertex id="356" x="-1.0318" y="5.3323" z="4.2212" u1="-1.0318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="377" v2="356" v3="357"/>
+		<vertex id="376" x="-1.0318" y="5.3323" z="3.8615" u1="-1.0318" v1="3.8615" diffuse="0xffcccccc"/>
+		<vertex id="355" x="-1.0699" y="5.3323" z="4.1981" u1="-1.0699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="376" v2="355" v3="356"/>
+		<vertex id="375" x="-1.0699" y="5.3323" z="3.8618" u1="-1.0699" v1="3.8618" diffuse="0xffcccccc"/>
+		<vertex id="354" x="-1.1080" y="5.3323" z="4.1648" u1="-1.1080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="375" v2="354" v3="355"/>
+		<vertex id="374" x="-1.1080" y="5.3323" z="3.8621" u1="-1.1080" v1="3.8621" diffuse="0xffcccccc"/>
+		<face v1="374" v2="353" v3="354"/>
+		<vertex id="412" x="-1.1461" y="3.5150" z="3.8588" u1="-1.1461" v1="3.8588" diffuse="0xffcccccc"/>
+		<vertex id="352" x="-1.1461" y="3.5150" z="4.1215" u1="-1.1461" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="8" v2="412" v3="352"/>
+		<vertex id="411" x="-1.1080" y="3.5150" z="3.8583" u1="-1.1080" v1="3.8583" diffuse="0xffcccccc"/>
+		<vertex id="351" x="-1.1080" y="3.5150" z="4.1648" u1="-1.1080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="352" v2="411" v3="351"/>
+		<vertex id="410" x="-1.0699" y="3.5150" z="3.8578" u1="-1.0699" v1="3.8578" diffuse="0xffcccccc"/>
+		<vertex id="350" x="-1.0699" y="3.5150" z="4.1981" u1="-1.0699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="351" v2="410" v3="350"/>
+		<vertex id="409" x="-1.0318" y="3.5150" z="3.8574" u1="-1.0318" v1="3.8574" diffuse="0xffcccccc"/>
+		<vertex id="349" x="-1.0318" y="3.5150" z="4.2212" u1="-1.0318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="350" v2="409" v3="349"/>
+		<vertex id="408" x="-0.9937" y="3.5150" z="3.8569" u1="-0.9937" v1="3.8569" diffuse="0xffcccccc"/>
+		<vertex id="348" x="-0.9937" y="3.5150" z="4.2343" u1="-0.9937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="349" v2="408" v3="348"/>
+		<vertex id="407" x="-0.9556" y="3.5150" z="3.8564" u1="-0.9556" v1="3.8564" diffuse="0xffcccccc"/>
+		<vertex id="347" x="-0.9556" y="3.5150" z="4.2375" u1="-0.9556" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="348" v2="407" v3="347"/>
+		<vertex id="346" x="-0.9175" y="3.5150" z="4.2375" u1="-0.9175" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="407" v2="346" v3="347"/>
+		<vertex id="406" x="-0.9175" y="3.5150" z="3.8559" u1="-0.9175" v1="3.8559" diffuse="0xffcccccc"/>
+		<vertex id="345" x="-0.8794" y="3.5150" z="4.2375" u1="-0.8794" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="406" v2="345" v3="346"/>
+		<vertex id="405" x="-0.8794" y="3.5150" z="3.8554" u1="-0.8794" v1="3.8554" diffuse="0xffcccccc"/>
+		<vertex id="344" x="-0.8413" y="3.5150" z="4.2375" u1="-0.8413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="405" v2="344" v3="345"/>
+		<vertex id="404" x="-0.8413" y="3.5150" z="3.8549" u1="-0.8413" v1="3.8549" diffuse="0xffcccccc"/>
+		<vertex id="343" x="-0.8033" y="3.5150" z="4.2375" u1="-0.8033" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="404" v2="343" v3="344"/>
+		<vertex id="403" x="-0.8033" y="3.5150" z="3.8544" u1="-0.8033" v1="3.8544" diffuse="0xffcccccc"/>
+		<vertex id="342" x="-0.7652" y="3.5150" z="4.2375" u1="-0.7652" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="403" v2="342" v3="343"/>
+		<vertex id="402" x="-0.7652" y="3.5150" z="3.8539" u1="-0.7652" v1="3.8539" diffuse="0xffcccccc"/>
+		<vertex id="341" x="-0.7271" y="3.5150" z="4.2375" u1="-0.7271" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="402" v2="341" v3="342"/>
+		<vertex id="401" x="-0.7271" y="3.5150" z="3.8534" u1="-0.7271" v1="3.8534" diffuse="0xffcccccc"/>
+		<vertex id="340" x="-0.6890" y="3.5150" z="4.2375" u1="-0.6890" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="401" v2="340" v3="341"/>
+		<vertex id="400" x="-0.6890" y="3.5150" z="3.8530" u1="-0.6890" v1="3.8530" diffuse="0xffcccccc"/>
+		<vertex id="339" x="-0.6509" y="3.5150" z="4.2375" u1="-0.6509" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="400" v2="339" v3="340"/>
+		<vertex id="399" x="-0.6509" y="3.5150" z="3.8525" u1="-0.6509" v1="3.8525" diffuse="0xffcccccc"/>
+		<vertex id="338" x="-0.6128" y="3.5150" z="4.2375" u1="-0.6128" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="399" v2="338" v3="339"/>
+		<vertex id="398" x="-0.6128" y="3.5150" z="3.8520" u1="-0.6128" v1="3.8520" diffuse="0xffcccccc"/>
+		<vertex id="337" x="-0.5747" y="3.5150" z="4.2343" u1="-0.5747" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="398" v2="337" v3="338"/>
+		<vertex id="397" x="-0.5747" y="3.5150" z="3.8515" u1="-0.5747" v1="3.8515" diffuse="0xffcccccc"/>
+		<vertex id="336" x="-0.5366" y="3.5150" z="4.2212" u1="-0.5366" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="397" v2="336" v3="337"/>
+		<vertex id="396" x="-0.5366" y="3.5150" z="3.8510" u1="-0.5366" v1="3.8510" diffuse="0xffcccccc"/>
+		<vertex id="335" x="-0.4985" y="3.5150" z="4.1981" u1="-0.4985" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="396" v2="335" v3="336"/>
+		<vertex id="395" x="-0.4985" y="3.5150" z="3.8505" u1="-0.4985" v1="3.8505" diffuse="0xffcccccc"/>
+		<vertex id="334" x="-0.4604" y="3.5150" z="4.1648" u1="-0.4604" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="395" v2="334" v3="335"/>
+		<vertex id="394" x="-0.4604" y="3.5150" z="3.8500" u1="-0.4604" v1="3.8500" diffuse="0xffcccccc"/>
+		<face v1="394" v2="333" v3="334"/>
+		<face v1="352" v2="9" v3="8"/>
+		<face v1="351" v2="353" v3="352"/>
+		<face v1="350" v2="354" v3="351"/>
+		<face v1="349" v2="355" v3="350"/>
+		<face v1="348" v2="356" v3="349"/>
+		<face v1="347" v2="357" v3="348"/>
+		<face v1="346" v2="358" v3="347"/>
+		<face v1="345" v2="359" v3="346"/>
+		<face v1="344" v2="360" v3="345"/>
+		<face v1="343" v2="361" v3="344"/>
+		<face v1="342" v2="362" v3="343"/>
+		<face v1="341" v2="363" v3="342"/>
+		<face v1="340" v2="364" v3="341"/>
+		<face v1="339" v2="365" v3="340"/>
+		<face v1="338" v2="366" v3="339"/>
+		<face v1="337" v2="367" v3="338"/>
+		<face v1="336" v2="368" v3="337"/>
+		<face v1="335" v2="369" v3="336"/>
+		<face v1="334" v2="370" v3="335"/>
+		<face v1="333" v2="371" v3="334"/>
+		<vertex id="453" x="0.3777" y="4.7823" z="3.8477" u1="0.3777" v1="3.8477" diffuse="0xffcccccc"/>
+		<face v1="7" v2="453" v3="452"/>
+		<vertex id="454" x="0.3396" y="4.7823" z="3.8480" u1="0.3396" v1="3.8480" diffuse="0xffcccccc"/>
+		<vertex id="451" x="0.3396" y="4.7823" z="4.1648" u1="0.3396" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="452" v2="454" v3="451"/>
+		<vertex id="455" x="0.3015" y="4.7823" z="3.8484" u1="0.3015" v1="3.8484" diffuse="0xffcccccc"/>
+		<vertex id="450" x="0.3015" y="4.7823" z="4.1981" u1="0.3015" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="451" v2="455" v3="450"/>
+		<vertex id="456" x="0.2634" y="4.7823" z="3.8487" u1="0.2634" v1="3.8487" diffuse="0xffcccccc"/>
+		<vertex id="449" x="0.2634" y="4.7823" z="4.2212" u1="0.2634" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="450" v2="456" v3="449"/>
+		<vertex id="457" x="0.2253" y="4.7823" z="3.8490" u1="0.2253" v1="3.8490" diffuse="0xffcccccc"/>
+		<vertex id="448" x="0.2253" y="4.7823" z="4.2343" u1="0.2253" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="449" v2="457" v3="448"/>
+		<vertex id="447" x="0.1872" y="4.7823" z="4.2375" u1="0.1872" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="448" v2="458" v3="447"/>
+		<vertex id="446" x="0.1491" y="4.7823" z="4.2375" u1="0.1491" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="447" v2="459" v3="446"/>
+		<vertex id="460" x="0.1110" y="4.7823" z="3.8500" u1="0.1110" v1="3.8500" diffuse="0xffcccccc"/>
+		<vertex id="445" x="0.1110" y="4.7823" z="4.2375" u1="0.1110" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="446" v2="460" v3="445"/>
+		<vertex id="461" x="0.0729" y="4.7823" z="3.8504" u1="0.0729" v1="3.8504" diffuse="0xffcccccc"/>
+		<vertex id="444" x="0.0729" y="4.7823" z="4.2375" u1="0.0729" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="445" v2="461" v3="444"/>
+		<vertex id="462" x="0.0348" y="4.7823" z="3.8507" u1="0.0348" v1="3.8507" diffuse="0xffcccccc"/>
+		<vertex id="443" x="0.0348" y="4.7823" z="4.2375" u1="0.0348" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="444" v2="462" v3="443"/>
+		<vertex id="463" x="-0.0033" y="4.7823" z="3.8510" u1="-0.0033" v1="3.8510" diffuse="0xffcccccc"/>
+		<vertex id="442" x="-0.0032" y="4.7823" z="4.2375" u1="-0.0032" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="443" v2="463" v3="442"/>
+		<vertex id="464" x="-0.0413" y="4.7823" z="3.8514" u1="-0.0413" v1="3.8514" diffuse="0xffcccccc"/>
+		<vertex id="441" x="-0.0413" y="4.7823" z="4.2375" u1="-0.0413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="442" v2="464" v3="441"/>
+		<vertex id="465" x="-0.0794" y="4.7823" z="3.8517" u1="-0.0794" v1="3.8517" diffuse="0xffcccccc"/>
+		<vertex id="440" x="-0.0794" y="4.7823" z="4.2375" u1="-0.0794" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="441" v2="465" v3="440"/>
+		<vertex id="466" x="-0.1175" y="4.7823" z="3.8520" u1="-0.1175" v1="3.8520" diffuse="0xffcccccc"/>
+		<vertex id="439" x="-0.1175" y="4.7823" z="4.2375" u1="-0.1175" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="440" v2="466" v3="439"/>
+		<vertex id="467" x="-0.1556" y="4.7823" z="3.8524" u1="-0.1556" v1="3.8524" diffuse="0xffcccccc"/>
+		<vertex id="438" x="-0.1556" y="4.7823" z="4.2375" u1="-0.1556" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="439" v2="467" v3="438"/>
+		<vertex id="437" x="-0.1937" y="4.7823" z="4.2343" u1="-0.1937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="467" v2="437" v3="438"/>
+		<vertex id="468" x="-0.1937" y="4.7823" z="3.8527" u1="-0.1937" v1="3.8527" diffuse="0xffcccccc"/>
+		<vertex id="436" x="-0.2318" y="4.7823" z="4.2212" u1="-0.2318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="468" v2="436" v3="437"/>
+		<vertex id="469" x="-0.2318" y="4.7823" z="3.8530" u1="-0.2318" v1="3.8530" diffuse="0xffcccccc"/>
+		<vertex id="435" x="-0.2699" y="4.7823" z="4.1981" u1="-0.2699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="469" v2="435" v3="436"/>
+		<vertex id="470" x="-0.2699" y="4.7823" z="3.8534" u1="-0.2699" v1="3.8534" diffuse="0xffcccccc"/>
+		<vertex id="434" x="-0.3080" y="4.7823" z="4.1648" u1="-0.3080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="470" v2="434" v3="435"/>
+		<vertex id="471" x="-0.3080" y="4.7823" z="3.8537" u1="-0.3080" v1="3.8537" diffuse="0xffcccccc"/>
+		<face v1="471" v2="433" v3="434"/>
+		<vertex id="492" x="-0.3461" y="2.9650" z="3.8448" u1="-0.3461" v1="3.8448" diffuse="0xffcccccc"/>
+		<vertex id="432" x="-0.3461" y="2.9650" z="4.1215" u1="-0.3461" v1="4.1215" diffuse="0xffcccccc"/>
+		<face v1="4" v2="492" v3="432"/>
+		<vertex id="491" x="-0.3080" y="2.9650" z="3.8443" u1="-0.3080" v1="3.8443" diffuse="0xffcccccc"/>
+		<vertex id="431" x="-0.3080" y="2.9650" z="4.1648" u1="-0.3080" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="432" v2="491" v3="431"/>
+		<vertex id="490" x="-0.2699" y="2.9650" z="3.8439" u1="-0.2699" v1="3.8439" diffuse="0xffcccccc"/>
+		<vertex id="430" x="-0.2699" y="2.9650" z="4.1981" u1="-0.2699" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="431" v2="490" v3="430"/>
+		<vertex id="489" x="-0.2318" y="2.9650" z="3.8434" u1="-0.2318" v1="3.8434" diffuse="0xffcccccc"/>
+		<vertex id="429" x="-0.2318" y="2.9650" z="4.2212" u1="-0.2318" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="430" v2="489" v3="429"/>
+		<vertex id="488" x="-0.1937" y="2.9650" z="3.8429" u1="-0.1937" v1="3.8429" diffuse="0xffcccccc"/>
+		<vertex id="428" x="-0.1937" y="2.9650" z="4.2343" u1="-0.1937" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="429" v2="488" v3="428"/>
+		<vertex id="487" x="-0.1556" y="2.9650" z="3.8424" u1="-0.1556" v1="3.8424" diffuse="0xffcccccc"/>
+		<vertex id="427" x="-0.1556" y="2.9650" z="4.2375" u1="-0.1556" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="428" v2="487" v3="427"/>
+		<vertex id="426" x="-0.1175" y="2.9650" z="4.2375" u1="-0.1175" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="487" v2="426" v3="427"/>
+		<vertex id="486" x="-0.1175" y="2.9650" z="3.8419" u1="-0.1175" v1="3.8419" diffuse="0xffcccccc"/>
+		<vertex id="425" x="-0.0794" y="2.9650" z="4.2375" u1="-0.0794" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="486" v2="425" v3="426"/>
+		<vertex id="485" x="-0.0794" y="2.9650" z="3.8414" u1="-0.0794" v1="3.8414" diffuse="0xffcccccc"/>
+		<vertex id="424" x="-0.0413" y="2.9650" z="4.2375" u1="-0.0413" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="485" v2="424" v3="425"/>
+		<vertex id="484" x="-0.0413" y="2.9650" z="3.8409" u1="-0.0413" v1="3.8409" diffuse="0xffcccccc"/>
+		<vertex id="423" x="-0.0032" y="2.9650" z="4.2375" u1="-0.0032" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="484" v2="423" v3="424"/>
+		<vertex id="483" x="-0.0033" y="2.9650" z="3.8404" u1="-0.0033" v1="3.8404" diffuse="0xffcccccc"/>
+		<vertex id="422" x="0.0348" y="2.9650" z="4.2375" u1="0.0348" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="483" v2="422" v3="423"/>
+		<vertex id="482" x="0.0348" y="2.9650" z="3.8399" u1="0.0348" v1="3.8399" diffuse="0xffcccccc"/>
+		<vertex id="421" x="0.0729" y="2.9650" z="4.2375" u1="0.0729" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="482" v2="421" v3="422"/>
+		<vertex id="481" x="0.0729" y="2.9650" z="3.8395" u1="0.0729" v1="3.8395" diffuse="0xffcccccc"/>
+		<vertex id="420" x="0.1110" y="2.9650" z="4.2375" u1="0.1110" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="481" v2="420" v3="421"/>
+		<vertex id="480" x="0.1110" y="2.9650" z="3.8390" u1="0.1110" v1="3.8390" diffuse="0xffcccccc"/>
+		<vertex id="419" x="0.1491" y="2.9650" z="4.2375" u1="0.1491" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="480" v2="419" v3="420"/>
+		<vertex id="479" x="0.1491" y="2.9650" z="3.8385" u1="0.1491" v1="3.8385" diffuse="0xffcccccc"/>
+		<vertex id="418" x="0.1872" y="2.9650" z="4.2375" u1="0.1872" v1="4.2375" diffuse="0xffcccccc"/>
+		<face v1="479" v2="418" v3="419"/>
+		<vertex id="478" x="0.1872" y="2.9650" z="3.8380" u1="0.1872" v1="3.8380" diffuse="0xffcccccc"/>
+		<vertex id="417" x="0.2253" y="2.9650" z="4.2343" u1="0.2253" v1="4.2343" diffuse="0xffcccccc"/>
+		<face v1="478" v2="417" v3="418"/>
+		<vertex id="477" x="0.2253" y="2.9650" z="3.8375" u1="0.2253" v1="3.8375" diffuse="0xffcccccc"/>
+		<vertex id="416" x="0.2634" y="2.9650" z="4.2212" u1="0.2634" v1="4.2212" diffuse="0xffcccccc"/>
+		<face v1="477" v2="416" v3="417"/>
+		<vertex id="476" x="0.2634" y="2.9650" z="3.8370" u1="0.2634" v1="3.8370" diffuse="0xffcccccc"/>
+		<vertex id="415" x="0.3015" y="2.9650" z="4.1981" u1="0.3015" v1="4.1981" diffuse="0xffcccccc"/>
+		<face v1="476" v2="415" v3="416"/>
+		<vertex id="475" x="0.3015" y="2.9650" z="3.8365" u1="0.3015" v1="3.8365" diffuse="0xffcccccc"/>
+		<vertex id="414" x="0.3396" y="2.9650" z="4.1648" u1="0.3396" v1="4.1648" diffuse="0xffcccccc"/>
+		<face v1="475" v2="414" v3="415"/>
+		<vertex id="474" x="0.3396" y="2.9650" z="3.8360" u1="0.3396" v1="3.8360" diffuse="0xffcccccc"/>
+		<face v1="474" v2="413" v3="414"/>
+		<face v1="432" v2="5" v3="4"/>
+		<face v1="431" v2="433" v3="432"/>
+		<face v1="430" v2="434" v3="431"/>
+		<face v1="429" v2="435" v3="430"/>
+		<face v1="428" v2="436" v3="429"/>
+		<face v1="427" v2="437" v3="428"/>
+		<face v1="426" v2="438" v3="427"/>
+		<face v1="425" v2="439" v3="426"/>
+		<face v1="424" v2="440" v3="425"/>
+		<face v1="423" v2="441" v3="424"/>
+		<face v1="422" v2="442" v3="423"/>
+		<face v1="421" v2="443" v3="422"/>
+		<face v1="420" v2="444" v3="421"/>
+		<face v1="419" v2="445" v3="420"/>
+		<face v1="418" v2="446" v3="419"/>
+		<face v1="417" v2="447" v3="418"/>
+		<face v1="416" v2="448" v3="417"/>
+		<face v1="415" v2="449" v3="416"/>
+		<face v1="414" v2="450" v3="415"/>
+		<face v1="413" v2="451" v3="414"/>
+		<vertex id="144" x="-1.1842" y="4.1130" z="3.8621" u1="-1.1842" v1="3.8621" diffuse="0xffcccccc"/>
+		<face v1="144" v2="145" v3="143"/>
+		<vertex id="151" x="-0.3842" y="4.4047" z="3.8551" u1="-0.3842" v1="3.8551" diffuse="0xffcccccc"/>
+		<face v1="151" v2="149" v3="150"/>
+		<vertex id="502" x="-4.3644" y="7.4984" z="3.8842" u1="-4.3644" v1="3.8842" diffuse="0xffcccccc"/>
+		<face v1="495" v2="505" v3="502"/>
+		<vertex id="500" x="-3.0342" y="0.0025" z="-3.4961" u1="-3.0342" v1="-3.4961" diffuse="0xffcccccc"/>
+		<vertex id="497" x="-1.6096" y="2.5019" z="-3.8579" u1="-1.6096" v1="-3.8579" diffuse="0xffcccccc"/>
+		<face v1="500" v2="497" v3="493"/>
+		<face v1="493" v2="503" v3="500"/>
+		<vertex id="119" x="0.7013" y="4.9949" z="-3.8451" u1="0.7013" v1="-3.8451" diffuse="0xffcccccc"/>
+		<face v1="497" v2="119" v3="116"/>
+		<vertex id="499" x="-1.8755" y="4.9975" z="-3.8661" u1="-1.8755" v1="-3.8661" diffuse="0xffcccccc"/>
+		<face v1="499" v2="117" v3="119"/>
+		<face v1="113" v2="496" v3="115"/>
+		<face v1="500" v2="27" v3="25"/>
+		<face v1="25" v2="504" v3="500"/>
+		<face v1="502" v2="31" v3="29"/>
+		<face v1="504" v2="499" v3="497"/>
+		<face v1="506" v2="498" v3="499"/>
+		<vertex id="494" x="-1.6096" y="2.5019" z="3.8579" u1="-1.6096" v1="3.8579" diffuse="0xffcccccc"/>
+		<face v1="494" v2="503" v3="496"/>
+		<vertex id="535" x="4.3849" y="4.9948" z="-4.1312" u1="4.3849" v1="-4.1312" diffuse="0xffcccccc"/>
+		<face v1="526" v2="543" v3="535"/>
+		<vertex id="511" x="3.9201" y="2.5058" z="4.1011" u1="3.9201" v1="4.1011" diffuse="0xffcccccc"/>
+		<face v1="511" v2="528" v3="512"/>
+		<vertex id="523" x="3.9991" y="2.5105" z="4.0964" u1="3.9991" v1="4.0964" diffuse="0xffcccccc"/>
+		<face v1="523" v2="534" v3="524"/>
+		<vertex id="540" x="4.4283" y="4.9927" z="-4.1251" u1="4.4283" v1="-4.1251" diffuse="0xffcccccc"/>
+		<face v1="516" v2="540" v3="530"/>
+		<face v1="519" v2="532" v3="520"/>
+		<vertex id="518" x="4.0394" y="2.5159" z="4.0788" u1="4.0394" v1="4.0788" diffuse="0xffcccccc"/>
+		<vertex id="538" x="4.5121" y="4.9694" z="4.0752" u1="4.5121" v1="4.0752" diffuse="0xffcccccc"/>
+		<face v1="518" v2="538" v3="531"/>
+		<vertex id="537" x="4.5891" y="4.9204" z="3.9742" u1="4.5891" v1="3.9742" diffuse="0xffcccccc"/>
+		<face v1="522" v2="537" v3="533"/>
+		<vertex id="509" x="4.1600" y="2.5445" z="-3.9638" u1="4.1600" v1="-3.9638" diffuse="0xffcccccc"/>
+		<vertex id="527" x="4.6241" y="4.8862" z="-3.9044" u1="4.6241" v1="-3.9044" diffuse="0xffcccccc"/>
+		<face v1="509" v2="527" v3="507"/>
+		<face v1="515" v2="535" v3="540"/>
+		<face v1="524" v2="542" v3="511"/>
+		<vertex id="517" x="4.0798" y="2.5233" z="4.0508" u1="4.0798" v1="4.0508" diffuse="0xffcccccc"/>
+		<face v1="517" v2="533" v3="538"/>
+		<face v1="520" v2="536" v3="509"/>
+		<face v1="518" v2="541" v3="523"/>
+		<vertex id="539" x="4.5121" y="4.9694" z="-4.0752" u1="4.5121" v1="-4.0752" diffuse="0xffcccccc"/>
+		<face v1="516" v2="539" v3="519"/>
+		<face v1="525" v2="529" v3="543"/>
+		<vertex id="546" x="1.0013" y="4.9949" z="4.1476" u1="1.0013" v1="4.1476" diffuse="0xffcccccc"/>
+		<face v1="512" v2="546" v3="545"/>
+		<vertex id="510" x="4.6241" y="4.8862" z="3.9044" u1="4.6241" v1="3.9044" diffuse="0xffcccccc"/>
+		<face v1="521" v2="510" v3="537"/>
+		<face v1="507" v2="510" v3="508"/>
+		<vertex id="514" x="3.8817" y="2.5064" z="-4.0895" u1="3.8817" v1="-4.0895" diffuse="0xffcccccc"/>
+		<vertex id="544" x="1.0013" y="4.9949" z="-4.1476" u1="1.0013" v1="-4.1476" diffuse="0xffcccccc"/>
+		<face v1="514" v2="544" v3="529"/>
+		<face v1="96" v2="546" v3="528"/>
+		<face v1="98" v2="540" v3="108"/>
+		<face v1="71" v2="518" v3="50"/>
+		<vertex id="513" x="0.9680" y="2.5039" z="-4.1298" u1="0.9680" v1="-4.1298" diffuse="0xffcccccc"/>
+		<face v1="43" v2="513" v3="514"/>
+		<face v1="107" v2="532" v3="539"/>
+		<face v1="119" v2="513" v3="116"/>
+		<face v1="106" v2="531" v3="538"/>
+		<face v1="118" v2="545" v3="546"/>
+		<face v1="59" v2="511" v3="83"/>
+		<face v1="101" v2="537" v3="105"/>
+		<face v1="105" v2="510" v3="91"/>
+		<face v1="77" v2="526" v3="515"/>
+		<face v1="104" v2="527" v3="536"/>
+		<face v1="97" v2="544" v3="119"/>
+		<face v1="108" v2="535" v3="103"/>
+		<face v1="56" v2="517" v3="71"/>
+		<face v1="86" v2="514" v3="525"/>
+		<face v1="91" v2="527" v3="90"/>
+		<face v1="102" v2="542" v3="534"/>
+		<face v1="53" v2="509" v3="65"/>
+		<face v1="50" v2="523" v3="80"/>
+		<face v1="2" v2="3" v3="192"/>
+		<face v1="2" v2="126" v3="131"/>
+		<face v1="172" v2="0" v3="130"/>
+		<face v1="130" v2="126" v3="163"/>
+		<face v1="126" v2="2" v3="153"/>
+		<face v1="162" v2="126" v3="161"/>
+		<face v1="153" v2="154" v3="159"/>
+		<face v1="126" v2="153" v3="159"/>
+		<face v1="154" v2="155" v3="158"/>
+		<face v1="155" v2="156" v3="158"/>
+		<face v1="154" v2="158" v3="159"/>
+		<face v1="156" v2="157" v3="158"/>
+		<face v1="159" v2="160" v3="126"/>
+		<face v1="160" v2="161" v3="126"/>
+		<face v1="172" v2="130" v3="171"/>
+		<face v1="126" v2="162" v3="163"/>
+		<face v1="170" v2="171" v3="167"/>
+		<face v1="166" v2="171" v3="130"/>
+		<face v1="168" v2="169" v3="167"/>
+		<face v1="169" v2="170" v3="167"/>
+		<face v1="166" v2="167" v3="171"/>
+		<face v1="163" v2="164" v3="130"/>
+		<face v1="164" v2="165" v3="130"/>
+		<face v1="192" v2="3" v3="131"/>
+		<vertex id="127" x="-3.5842" y="6.9823" z="3.8813" u1="-3.5842" v1="3.8813" diffuse="0xffcccccc"/>
+		<face v1="131" v2="127" v3="182"/>
+		<face v1="127" v2="1" v3="173"/>
+		<face v1="182" v2="127" v3="181"/>
+		<face v1="173" v2="174" v3="127"/>
+		<face v1="174" v2="175" v3="178"/>
+		<face v1="175" v2="176" v3="178"/>
+		<face v1="174" v2="178" v3="179"/>
+		<face v1="176" v2="177" v3="178"/>
+		<face v1="179" v2="180" v3="127"/>
+		<face v1="180" v2="181" v3="127"/>
+		<face v1="127" v2="174" v3="179"/>
+		<face v1="192" v2="131" v3="186"/>
+		<face v1="190" v2="191" v3="187"/>
+		<face v1="191" v2="192" v3="186"/>
+		<face v1="188" v2="189" v3="187"/>
+		<face v1="189" v2="190" v3="187"/>
+		<face v1="186" v2="187" v3="191"/>
+		<face v1="183" v2="184" v3="131"/>
+		<face v1="184" v2="185" v3="131"/>
+		<face v1="185" v2="186" v3="131"/>
+		<face v1="6" v2="7" v3="452"/>
+		<vertex id="152" x="0.4158" y="2.9650" z="3.8351" u1="0.4158" v1="3.8351" diffuse="0xffcccccc"/>
+		<face v1="6" v2="152" v3="148"/>
+		<face v1="473" v2="152" v3="6"/>
+		<face v1="472" v2="150" v3="5"/>
+		<face v1="10" v2="11" v3="372"/>
+		<vertex id="147" x="-0.3842" y="3.5150" z="3.8490" u1="-0.3842" v1="3.8490" diffuse="0xffcccccc"/>
+		<face v1="10" v2="147" v3="146"/>
+		<face v1="393" v2="147" v3="10"/>
+		<face v1="373" v2="143" v3="9"/>
+		<face v1="14" v2="15" v3="292"/>
+		<vertex id="138" x="-1.1842" y="4.0650" z="3.8622" u1="-1.1842" v1="3.8622" diffuse="0xffcccccc"/>
+		<face v1="14" v2="138" v3="141"/>
+		<face v1="313" v2="138" v3="14"/>
+		<face v1="293" v2="139" v3="13"/>
+		<face v1="18" v2="19" v3="232"/>
+		<face v1="19" v2="18" v3="135"/>
+		<vertex id="136" x="-1.9842" y="4.6150" z="3.8677" u1="-1.9842" v1="3.8677" diffuse="0xffcccccc"/>
+		<face v1="18" v2="136" v3="135"/>
+		<face v1="212" v2="16" v3="137"/>
+		<face v1="137" v2="136" v3="203"/>
+		<face v1="136" v2="18" v3="193"/>
+		<face v1="202" v2="136" v3="201"/>
+		<face v1="193" v2="194" v3="199"/>
+		<face v1="136" v2="193" v3="199"/>
+		<face v1="194" v2="195" v3="198"/>
+		<face v1="195" v2="196" v3="198"/>
+		<face v1="194" v2="198" v3="199"/>
+		<face v1="196" v2="197" v3="198"/>
+		<face v1="199" v2="200" v3="136"/>
+		<face v1="200" v2="201" v3="136"/>
+		<face v1="212" v2="137" v3="206"/>
+		<face v1="136" v2="202" v3="203"/>
+		<face v1="210" v2="211" v3="207"/>
+		<face v1="211" v2="212" v3="206"/>
+		<face v1="208" v2="209" v3="207"/>
+		<face v1="209" v2="210" v3="207"/>
+		<face v1="206" v2="207" v3="211"/>
+		<face v1="203" v2="204" v3="137"/>
+		<face v1="204" v2="205" v3="137"/>
+		<face v1="233" v2="133" v3="17"/>
+		<face v1="26" v2="33" v3="32"/>
+		<face v1="501" v2="26" v3="27"/>
+		<face v1="26" v2="24" v3="25"/>
+		<face v1="21" v2="23" v3="64"/>
+		<face v1="20" v2="22" v3="23"/>
+		<face v1="65" v2="20" v3="21"/>
+		<face v1="28" v2="30" v3="66"/>
+		<face v1="90" v2="30" v3="28"/>
+		<face v1="89" v2="31" v3="505"/>
+		<face v1="105" v2="91" v3="28"/>
+		<face v1="34" v2="38" v3="94"/>
+		<face v1="29" v2="34" v3="92"/>
+		<face v1="31" v2="35" v3="34"/>
+		<face v1="24" v2="32" v3="93"/>
+		<face v1="94" v2="38" v3="39"/>
+		<face v1="33" v2="37" v3="36"/>
+		<face v1="93" v2="32" v3="36"/>
+		<face v1="35" v2="39" v3="38"/>
+		<face v1="96" v2="44" v3="114"/>
+		<face v1="111" v2="97" v3="45"/>
+		<face v1="114" v2="44" v3="45"/>
+		<face v1="116" v2="43" v3="40"/>
+		<face v1="40" v2="42" v3="115"/>
+		<face v1="85" v2="83" v3="41"/>
+		<face v1="73" v2="71" v3="50"/>
+		<face v1="98" v2="48" v3="75"/>
+		<face v1="109" v2="99" v3="51"/>
+		<face v1="51" v2="48" v3="78"/>
+		<face v1="77" v2="47" v3="49"/>
+		<face v1="49" v2="46" v3="76"/>
+		<face v1="100" v2="54" v3="66"/>
+		<face v1="64" v2="68" v3="56"/>
+		<face v1="106" v2="101" v3="57"/>
+		<face v1="57" v2="54" v3="75"/>
+		<face v1="74" v2="53" v3="55"/>
+		<face v1="55" v2="52" v3="73"/>
+		<face v1="58" v2="61" v3="85"/>
+		<face v1="86" v2="62" v3="58"/>
+		<face v1="60" v2="63" v3="87"/>
+		<face v1="102" v2="60" v3="84"/>
+		<face v1="76" v2="80" v3="59"/>
+		<face v1="103" v2="63" v3="78"/>
+		<face v1="23" v2="22" v3="68"/>
+		<face v1="104" v2="66" v3="30"/>
+		<face v1="101" v2="105" v3="69"/>
+		<face v1="69" v2="66" v3="54"/>
+		<face v1="53" v2="65" v3="67"/>
+		<face v1="67" v2="64" v3="52"/>
+		<face v1="70" v2="73" v3="46"/>
+		<face v1="47" v2="74" v3="70"/>
+		<face v1="72" v2="75" v3="48"/>
+		<face v1="99" v2="106" v3="72"/>
+		<face v1="107" v2="75" v3="54"/>
+		<face v1="52" v2="56" v3="71"/>
+		<face v1="108" v2="78" v3="48"/>
+		<face v1="46" v2="50" v3="80"/>
+		<face v1="79" v2="76" v3="61"/>
+		<face v1="62" v2="77" v3="79"/>
+		<face v1="81" v2="78" v3="63"/>
+		<face v1="102" v2="109" v3="81"/>
+		<face v1="110" v2="84" v3="44"/>
+		<face v1="84" v2="87" v3="45"/>
+		<face v1="43" v2="86" v3="82"/>
+		<face v1="82" v2="85" v3="42"/>
+		<face v1="61" v2="59" v3="83"/>
+		<face v1="103" v2="111" v3="87"/>
+		<face v1="109" v2="102" v3="534"/>
+		<face v1="56" v2="68" v3="521"/>
+		<face v1="83" v2="511" v3="512"/>
+		<face v1="65" v2="509" v3="507"/>
+		<face v1="110" v2="96" v3="528"/>
+		<face v1="111" v2="543" v3="529"/>
+		<face v1="62" v2="86" v3="525"/>
+		<face v1="47" v2="77" v3="515"/>
+		<face v1="103" v2="535" v3="543"/>
+		<face v1="107" v2="539" v3="530"/>
+		<face v1="68" v2="22" v3="508"/>
+		<face v1="53" v2="74" v3="519"/>
+		<face v1="99" v2="109" v3="541"/>
+		<face v1="20" v2="507" v3="508"/>
+		<face v1="74" v2="47" v3="516"/>
+		<face v1="100" v2="104" v3="536"/>
+		<face v1="35" v2="93" v3="95"/>
+		<face v1="37" v2="94" v3="95"/>
+		<face v1="89" v2="93" v3="35"/>
+		<face v1="88" v2="92" v3="33"/>
+		<face v1="92" v2="94" v3="37"/>
+		<face v1="80" v2="523" v3="524"/>
+		<face v1="24" v2="89" v3="506"/>
+		<face v1="41" v2="512" v3="545"/>
+		<face v1="106" v2="538" v3="533"/>
+		<face v1="112" v2="115" v3="496"/>
+		<face v1="493" v2="497" v3="116"/>
+		<face v1="114" v2="117" v3="498"/>
+		<face v1="97" v2="119" v3="117"/>
+		<face v1="42" v2="41" v3="113"/>
+		<face v1="129" v2="88" v3="130"/>
+		<face v1="88" v2="26" v3="137"/>
+		<face v1="130" v2="88" v3="137"/>
+		<face v1="26" v2="501" v3="137"/>
+		<face v1="501" v2="494" v3="144"/>
+		<face v1="476" v2="113" v3="475"/>
+		<face v1="494" v2="113" v3="149"/>
+		<face v1="113" v2="152" v3="473"/>
+		<face v1="475" v2="113" v3="474"/>
+		<face v1="473" v2="474" v3="113"/>
+		<face v1="113" v2="476" v3="477"/>
+		<face v1="478" v2="113" v3="477"/>
+		<face v1="126" v2="130" v3="137"/>
+		<face v1="113" v2="478" v3="479"/>
+		<face v1="113" v2="479" v3="480"/>
+		<face v1="113" v2="480" v3="481"/>
+		<face v1="483" v2="113" v3="482"/>
+		<face v1="113" v2="487" v3="488"/>
+		<face v1="481" v2="482" v3="113"/>
+		<face v1="483" v2="484" v3="113"/>
+		<face v1="484" v2="485" v3="113"/>
+		<face v1="487" v2="113" v3="486"/>
+		<face v1="491" v2="113" v3="490"/>
+		<face v1="113" v2="491" v3="492"/>
+		<face v1="149" v2="113" v3="492"/>
+		<face v1="485" v2="486" v3="113"/>
+		<face v1="488" v2="489" v3="113"/>
+		<face v1="137" v2="134" v3="128"/>
+		<face v1="139" v2="135" v3="136"/>
+		<face v1="140" v2="139" v3="136"/>
+		<face v1="144" v2="143" v3="136"/>
+		<face v1="143" v2="140" v3="136"/>
+		<face v1="149" v2="151" v3="144"/>
+		<face v1="489" v2="490" v3="113"/>
+		<face v1="494" v2="149" v3="144"/>
+		<face v1="144" v2="136" v3="137"/>
+		<face v1="144" v2="137" v3="501"/>
+		<face v1="126" v2="137" v3="128"/>
+		<face v1="128" v2="127" v3="131"/>
+		<face v1="4" v2="5" v3="150"/>
+		<face v1="134" v2="137" v3="16"/>
+		<face v1="16" v2="17" v3="134"/>
+		<face v1="129" v2="130" v3="0"/>
+		<face v1="0" v2="1" v3="128"/>
+		<face v1="1" v2="127" v3="128"/>
+		<vertex id="142" x="-1.9842" y="4.0650" z="3.8687" u1="-1.9842" v1="3.8687" diffuse="0xffcccccc"/>
+		<face v1="140" v2="142" v3="12"/>
+		<face v1="12" v2="13" v3="140"/>
+		<face v1="129" v2="130" v3="126"/>
+		<face v1="88" v2="129" v3="128"/>
+		<face v1="134" v2="137" v3="136"/>
+		<face v1="29" v2="88" v3="128"/>
+		<face v1="134" v2="136" v3="135"/>
+		<face v1="29" v2="128" v3="502"/>
+		<face v1="128" v2="134" v3="135"/>
+		<face v1="502" v2="128" v3="135"/>
+		<face v1="114" v2="495" v3="135"/>
+		<face v1="495" v2="502" v3="135"/>
+		<face v1="135" v2="139" v3="143"/>
+		<face v1="139" v2="140" v3="143"/>
+		<face v1="118" v2="114" v3="143"/>
+		<face v1="152" v2="113" v3="118"/>
+		<face v1="454" v2="453" v3="118"/>
+		<face v1="453" v2="148" v3="118"/>
+		<face v1="148" v2="152" v3="118"/>
+		<face v1="114" v2="135" v3="143"/>
+		<face v1="143" v2="144" v3="150"/>
+		<face v1="144" v2="151" v3="150"/>
+		<face v1="150" v2="472" v3="143"/>
+		<face v1="472" v2="471" v3="143"/>
+		<face v1="457" v2="456" v3="118"/>
+		<face v1="456" v2="455" v3="118"/>
+		<face v1="457" v2="118" v3="458"/>
+		<face v1="455" v2="454" v3="118"/>
+		<face v1="118" v2="143" v3="466"/>
+		<face v1="470" v2="143" v3="471"/>
+		<face v1="470" v2="469" v3="143"/>
+		<face v1="469" v2="468" v3="143"/>
+		<face v1="468" v2="467" v3="143"/>
+		<face v1="467" v2="466" v3="143"/>
+		<face v1="466" v2="465" v3="118"/>
+		<face v1="465" v2="464" v3="118"/>
+		<face v1="464" v2="463" v3="118"/>
+		<face v1="463" v2="462" v3="118"/>
+		<face v1="462" v2="461" v3="118"/>
+		<face v1="461" v2="460" v3="118"/>
+		<face v1="460" v2="459" v3="118"/>
+		<face v1="8" v2="9" v3="143"/>
+		<face v1="172" v2="173" v3="1"/>
+		<face v1="171" v2="174" v3="173"/>
+		<face v1="170" v2="175" v3="174"/>
+		<face v1="169" v2="176" v3="175"/>
+		<face v1="168" v2="177" v3="176"/>
+		<face v1="167" v2="178" v3="177"/>
+		<face v1="166" v2="179" v3="178"/>
+		<face v1="165" v2="180" v3="179"/>
+		<face v1="164" v2="181" v3="180"/>
+		<face v1="163" v2="182" v3="181"/>
+		<face v1="162" v2="183" v3="182"/>
+		<face v1="161" v2="184" v3="183"/>
+		<face v1="160" v2="185" v3="184"/>
+		<face v1="159" v2="186" v3="185"/>
+		<face v1="158" v2="187" v3="186"/>
+		<face v1="157" v2="188" v3="187"/>
+		<face v1="156" v2="189" v3="188"/>
+		<face v1="155" v2="190" v3="189"/>
+		<face v1="154" v2="191" v3="190"/>
+		<face v1="153" v2="192" v3="191"/>
+		<face v1="19" v2="132" v3="252"/>
+		<face v1="232" v2="252" v3="251"/>
+		<face v1="231" v2="251" v3="250"/>
+		<face v1="230" v2="250" v3="249"/>
+		<face v1="229" v2="249" v3="248"/>
+		<face v1="228" v2="248" v3="247"/>
+		<face v1="227" v2="247" v3="246"/>
+		<face v1="226" v2="246" v3="245"/>
+		<face v1="225" v2="245" v3="244"/>
+		<face v1="224" v2="244" v3="243"/>
+		<face v1="223" v2="243" v3="242"/>
+		<face v1="222" v2="242" v3="241"/>
+		<face v1="221" v2="241" v3="240"/>
+		<face v1="220" v2="240" v3="239"/>
+		<face v1="219" v2="239" v3="238"/>
+		<face v1="238" v2="237" v3="217"/>
+		<face v1="237" v2="236" v3="216"/>
+		<face v1="236" v2="235" v3="215"/>
+		<face v1="235" v2="234" v3="214"/>
+		<face v1="234" v2="233" v3="213"/>
+		<face v1="212" v2="213" v3="17"/>
+		<face v1="211" v2="214" v3="213"/>
+		<face v1="210" v2="215" v3="214"/>
+		<face v1="209" v2="216" v3="215"/>
+		<face v1="209" v2="208" v3="217"/>
+		<face v1="207" v2="218" v3="217"/>
+		<face v1="206" v2="219" v3="218"/>
+		<face v1="205" v2="220" v3="219"/>
+		<face v1="204" v2="221" v3="220"/>
+		<face v1="203" v2="222" v3="221"/>
+		<face v1="202" v2="223" v3="222"/>
+		<face v1="201" v2="224" v3="223"/>
+		<face v1="200" v2="225" v3="224"/>
+		<face v1="199" v2="226" v3="225"/>
+		<face v1="198" v2="227" v3="226"/>
+		<face v1="197" v2="228" v3="227"/>
+		<face v1="197" v2="196" v3="229"/>
+		<face v1="195" v2="230" v3="229"/>
+		<face v1="194" v2="231" v3="230"/>
+		<face v1="193" v2="232" v3="231"/>
+		<face v1="15" v2="141" v3="312"/>
+		<face v1="292" v2="312" v3="311"/>
+		<face v1="291" v2="311" v3="310"/>
+		<face v1="290" v2="310" v3="309"/>
+		<face v1="289" v2="309" v3="308"/>
+		<face v1="288" v2="308" v3="307"/>
+		<face v1="287" v2="307" v3="306"/>
+		<face v1="286" v2="306" v3="305"/>
+		<face v1="285" v2="305" v3="304"/>
+		<face v1="284" v2="304" v3="303"/>
+		<face v1="283" v2="303" v3="302"/>
+		<face v1="282" v2="302" v3="301"/>
+		<face v1="281" v2="301" v3="300"/>
+		<face v1="280" v2="300" v3="299"/>
+		<face v1="279" v2="299" v3="298"/>
+		<face v1="298" v2="297" v3="277"/>
+		<face v1="297" v2="296" v3="276"/>
+		<face v1="296" v2="295" v3="275"/>
+		<face v1="295" v2="294" v3="274"/>
+		<face v1="294" v2="293" v3="273"/>
+		<face v1="12" v2="142" v3="332"/>
+		<face v1="272" v2="332" v3="331"/>
+		<face v1="271" v2="331" v3="330"/>
+		<face v1="270" v2="330" v3="329"/>
+		<face v1="269" v2="329" v3="328"/>
+		<face v1="268" v2="328" v3="327"/>
+		<face v1="327" v2="326" v3="266"/>
+		<face v1="326" v2="325" v3="265"/>
+		<face v1="325" v2="324" v3="264"/>
+		<face v1="324" v2="323" v3="263"/>
+		<face v1="323" v2="322" v3="262"/>
+		<face v1="322" v2="321" v3="261"/>
+		<face v1="321" v2="320" v3="260"/>
+		<face v1="320" v2="319" v3="259"/>
+		<face v1="319" v2="318" v3="258"/>
+		<face v1="318" v2="317" v3="257"/>
+		<face v1="317" v2="316" v3="256"/>
+		<face v1="316" v2="315" v3="255"/>
+		<face v1="315" v2="314" v3="254"/>
+		<face v1="314" v2="313" v3="253"/>
+		<face v1="272" v2="273" v3="13"/>
+		<face v1="271" v2="274" v3="273"/>
+		<face v1="270" v2="275" v3="274"/>
+		<face v1="269" v2="276" v3="275"/>
+		<face v1="269" v2="268" v3="277"/>
+		<face v1="267" v2="278" v3="277"/>
+		<face v1="266" v2="279" v3="278"/>
+		<face v1="265" v2="280" v3="279"/>
+		<face v1="264" v2="281" v3="280"/>
+		<face v1="263" v2="282" v3="281"/>
+		<face v1="262" v2="283" v3="282"/>
+		<face v1="261" v2="284" v3="283"/>
+		<face v1="260" v2="285" v3="284"/>
+		<face v1="259" v2="286" v3="285"/>
+		<face v1="258" v2="287" v3="286"/>
+		<face v1="257" v2="288" v3="287"/>
+		<face v1="256" v2="289" v3="288"/>
+		<face v1="255" v2="290" v3="289"/>
+		<face v1="254" v2="291" v3="290"/>
+		<face v1="253" v2="292" v3="291"/>
+		<face v1="11" v2="146" v3="392"/>
+		<face v1="372" v2="392" v3="391"/>
+		<face v1="371" v2="391" v3="390"/>
+		<face v1="370" v2="390" v3="389"/>
+		<face v1="369" v2="389" v3="388"/>
+		<face v1="368" v2="388" v3="387"/>
+		<face v1="367" v2="387" v3="386"/>
+		<face v1="366" v2="386" v3="385"/>
+		<face v1="365" v2="385" v3="384"/>
+		<face v1="364" v2="384" v3="383"/>
+		<face v1="363" v2="383" v3="382"/>
+		<face v1="362" v2="382" v3="381"/>
+		<face v1="361" v2="381" v3="380"/>
+		<face v1="360" v2="380" v3="379"/>
+		<face v1="359" v2="379" v3="378"/>
+		<face v1="378" v2="377" v3="357"/>
+		<face v1="377" v2="376" v3="356"/>
+		<face v1="376" v2="375" v3="355"/>
+		<face v1="375" v2="374" v3="354"/>
+		<face v1="374" v2="373" v3="353"/>
+		<face v1="8" v2="145" v3="412"/>
+		<face v1="352" v2="412" v3="411"/>
+		<face v1="351" v2="411" v3="410"/>
+		<face v1="350" v2="410" v3="409"/>
+		<face v1="349" v2="409" v3="408"/>
+		<face v1="348" v2="408" v3="407"/>
+		<face v1="407" v2="406" v3="346"/>
+		<face v1="406" v2="405" v3="345"/>
+		<face v1="405" v2="404" v3="344"/>
+		<face v1="404" v2="403" v3="343"/>
+		<face v1="403" v2="402" v3="342"/>
+		<face v1="402" v2="401" v3="341"/>
+		<face v1="401" v2="400" v3="340"/>
+		<face v1="400" v2="399" v3="339"/>
+		<face v1="399" v2="398" v3="338"/>
+		<face v1="398" v2="397" v3="337"/>
+		<face v1="397" v2="396" v3="336"/>
+		<face v1="396" v2="395" v3="335"/>
+		<face v1="395" v2="394" v3="334"/>
+		<face v1="394" v2="393" v3="333"/>
+		<face v1="352" v2="353" v3="9"/>
+		<face v1="351" v2="354" v3="353"/>
+		<face v1="350" v2="355" v3="354"/>
+		<face v1="349" v2="356" v3="355"/>
+		<face v1="348" v2="357" v3="356"/>
+		<face v1="347" v2="358" v3="357"/>
+		<face v1="346" v2="359" v3="358"/>
+		<face v1="345" v2="360" v3="359"/>
+		<face v1="344" v2="361" v3="360"/>
+		<face v1="343" v2="362" v3="361"/>
+		<face v1="342" v2="363" v3="362"/>
+		<face v1="341" v2="364" v3="363"/>
+		<face v1="340" v2="365" v3="364"/>
+		<face v1="339" v2="366" v3="365"/>
+		<face v1="338" v2="367" v3="366"/>
+		<face v1="337" v2="368" v3="367"/>
+		<face v1="336" v2="369" v3="368"/>
+		<face v1="335" v2="370" v3="369"/>
+		<face v1="334" v2="371" v3="370"/>
+		<face v1="333" v2="372" v3="371"/>
+		<face v1="7" v2="148" v3="453"/>
+		<face v1="452" v2="453" v3="454"/>
+		<face v1="451" v2="454" v3="455"/>
+		<face v1="450" v2="455" v3="456"/>
+		<face v1="449" v2="456" v3="457"/>
+		<face v1="448" v2="457" v3="458"/>
+		<face v1="447" v2="458" v3="459"/>
+		<face v1="446" v2="459" v3="460"/>
+		<face v1="445" v2="460" v3="461"/>
+		<face v1="444" v2="461" v3="462"/>
+		<face v1="443" v2="462" v3="463"/>
+		<face v1="442" v2="463" v3="464"/>
+		<face v1="441" v2="464" v3="465"/>
+		<face v1="440" v2="465" v3="466"/>
+		<face v1="439" v2="466" v3="467"/>
+		<face v1="467" v2="468" v3="437"/>
+		<face v1="468" v2="469" v3="436"/>
+		<face v1="469" v2="470" v3="435"/>
+		<face v1="470" v2="471" v3="434"/>
+		<face v1="471" v2="472" v3="433"/>
+		<face v1="4" v2="149" v3="492"/>
+		<face v1="432" v2="492" v3="491"/>
+		<face v1="431" v2="491" v3="490"/>
+		<face v1="430" v2="490" v3="489"/>
+		<face v1="429" v2="489" v3="488"/>
+		<face v1="428" v2="488" v3="487"/>
+		<face v1="487" v2="486" v3="426"/>
+		<face v1="486" v2="485" v3="425"/>
+		<face v1="485" v2="484" v3="424"/>
+		<face v1="484" v2="483" v3="423"/>
+		<face v1="483" v2="482" v3="422"/>
+		<face v1="482" v2="481" v3="421"/>
+		<face v1="481" v2="480" v3="420"/>
+		<face v1="480" v2="479" v3="419"/>
+		<face v1="479" v2="478" v3="418"/>
+		<face v1="478" v2="477" v3="417"/>
+		<face v1="477" v2="476" v3="416"/>
+		<face v1="476" v2="475" v3="415"/>
+		<face v1="475" v2="474" v3="414"/>
+		<face v1="474" v2="473" v3="413"/>
+		<face v1="432" v2="433" v3="5"/>
+		<face v1="431" v2="434" v3="433"/>
+		<face v1="430" v2="435" v3="434"/>
+		<face v1="429" v2="436" v3="435"/>
+		<face v1="428" v2="437" v3="436"/>
+		<face v1="427" v2="438" v3="437"/>
+		<face v1="426" v2="439" v3="438"/>
+		<face v1="425" v2="440" v3="439"/>
+		<face v1="424" v2="441" v3="440"/>
+		<face v1="423" v2="442" v3="441"/>
+		<face v1="422" v2="443" v3="442"/>
+		<face v1="421" v2="444" v3="443"/>
+		<face v1="420" v2="445" v3="444"/>
+		<face v1="419" v2="446" v3="445"/>
+		<face v1="418" v2="447" v3="446"/>
+		<face v1="417" v2="448" v3="447"/>
+		<face v1="416" v2="449" v3="448"/>
+		<face v1="415" v2="450" v3="449"/>
+		<face v1="414" v2="451" v3="450"/>
+		<face v1="413" v2="452" v3="451"/>
+		<face v1="495" v2="498" v3="505"/>
+		<face v1="500" v2="504" v3="497"/>
+		<face v1="493" v2="496" v3="503"/>
+		<face v1="497" v2="499" v3="119"/>
+		<face v1="499" v2="498" v3="117"/>
+		<face v1="113" v2="494" v3="496"/>
+		<face v1="500" v2="503" v3="27"/>
+		<face v1="25" v2="24" v3="504"/>
+		<face v1="502" v2="505" v3="31"/>
+		<face v1="504" v2="506" v3="499"/>
+		<face v1="506" v2="505" v3="498"/>
+		<face v1="494" v2="501" v3="503"/>
+		<face v1="526" v2="525" v3="543"/>
+		<face v1="511" v2="542" v3="528"/>
+		<face v1="523" v2="541" v3="534"/>
+		<face v1="516" v2="515" v3="540"/>
+		<face v1="519" v2="539" v3="532"/>
+		<face v1="518" v2="517" v3="538"/>
+		<face v1="522" v2="521" v3="537"/>
+		<face v1="509" v2="536" v3="527"/>
+		<face v1="515" v2="526" v3="535"/>
+		<face v1="524" v2="534" v3="542"/>
+		<face v1="517" v2="522" v3="533"/>
+		<face v1="520" v2="532" v3="536"/>
+		<face v1="518" v2="531" v3="541"/>
+		<face v1="516" v2="530" v3="539"/>
+		<face v1="525" v2="514" v3="529"/>
+		<face v1="512" v2="528" v3="546"/>
+		<face v1="521" v2="508" v3="510"/>
+		<face v1="507" v2="527" v3="510"/>
+		<face v1="514" v2="513" v3="544"/>
+		<face v1="96" v2="118" v3="546"/>
+		<face v1="98" v2="530" v3="540"/>
+		<face v1="71" v2="517" v3="518"/>
+		<face v1="43" v2="116" v3="513"/>
+		<face v1="107" v2="100" v3="532"/>
+		<face v1="119" v2="544" v3="513"/>
+		<face v1="106" v2="99" v3="531"/>
+		<face v1="118" v2="113" v3="545"/>
+		<face v1="59" v2="524" v3="511"/>
+		<face v1="101" v2="533" v3="537"/>
+		<face v1="105" v2="537" v3="510"/>
+		<face v1="77" v2="62" v3="526"/>
+		<face v1="104" v2="90" v3="527"/>
+		<face v1="97" v2="529" v3="544"/>
+		<face v1="108" v2="540" v3="535"/>
+		<face v1="56" v2="522" v3="517"/>
+		<face v1="86" v2="43" v3="514"/>
+		<face v1="91" v2="510" v3="527"/>
+		<face v1="102" v2="110" v3="542"/>
+		<face v1="53" v2="520" v3="509"/>
+		<face v1="50" v2="518" v3="523"/>
+		</batch>
+	</3dmodel>

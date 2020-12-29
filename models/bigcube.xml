@@ -1,0 +1,10 @@
+<3dmodel id="bigcube">
+	<batch id="None" texture="Textures\concrete5.png" material="Materials\material1.xml" fvf="322" order="0">
+		<vertex id="1" x="0.0000" y="-200.0000" z="200.0000" u1="0.0000" v1="200.0000" diffuse="0xffcccccc"/>
+		<vertex id="2" x="-0.0000" y="200.0000" z="-200.0000" u1="-0.0000" v1="-200.0000" diffuse="0xffcccccc"/>
+		<vertex id="0" x="-0.0000" y="200.0000" z="200.0000" u1="-0.0000" v1="200.0000" diffuse="0xffcccccc"/>
+		<face v1="1" v2="2" v3="0"/>
+		<vertex id="3" x="0.0000" y="-200.0000" z="-200.0000" u1="0.0000" v1="-200.0000" diffuse="0xffcccccc"/>
+		<face v1="1" v2="3" v3="2"/>
+		</batch>
+	</3dmodel>
